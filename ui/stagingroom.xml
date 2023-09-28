@@ -138,7 +138,7 @@
 			<Label ID="MapPool_9Label" Style="FontNormal12" FontStyle="Shadow" ColorSet="ServerColumnHeader" Anchor="L,T"  Offset="885,72" String="7 Seas" Hidden="1" />
 			<Label ID="MapPool_10Label" Style="FontNormal12" FontStyle="Shadow" ColorSet="ServerColumnHeader" Anchor="L,T"  Offset="885,84" String="Shuffle" Hidden="1" />
 			<Label ID="MapPool_11Label" Style="FontNormal12" FontStyle="Shadow" ColorSet="ServerColumnHeader" Anchor="L,T"  Offset="885,96" String="S. Cont." Hidden="1" />
-			<Label ID="MapPool_12Label" Style="FontNormal12" FontStyle="Shadow" ColorSet="ServerColumnHeader" Anchor="L,T"  Offset="885,108" String="Sp. Frac." Hidden="1" />		
+			<Label ID="MapPool_12Label" Style="FontNormal12" FontStyle="Shadow" ColorSet="ServerColumnHeader" Anchor="L,T"  Offset="885,108" String="Rich H" Hidden="1" />		
 			<Label ID="MapPool_13Label" Style="FontNormal12" FontStyle="Shadow" ColorSet="ServerColumnHeader" Anchor="L,T"  Offset="940,72" String="Terra" Hidden="1" />
 			<Label ID="MapPool_14Label" Style="FontNormal12" FontStyle="Shadow" ColorSet="ServerColumnHeader" Anchor="L,T"  Offset="940,84" String="Tlt. Axis" Hidden="1" />
 			<Label ID="MapPool_15Label" Style="FontNormal12" FontStyle="Shadow" ColorSet="ServerColumnHeader" Anchor="L,T"  Offset="940,96" String="????" Hidden="1" />

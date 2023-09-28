@@ -3,6 +3,12 @@
     <LocalizedText>
 
         <!-- New entries -->
+        <Replace Tag="LOC_MAP_RICH_HIGHTLANDS_NANME" language="en">
+            <Text>Rich Highlands</Text>
+        </Replace>
+        <Replace Tag="LOC_MAP_RICH_HIGHTLANDS_DESCRIPTION" language="en">
+            <Text>Highlands, with more resources</Text>
+        </Replace>
         <Replace Tag="LOC_MPH_TURN_IS_PROCESSED" language="en">
             <Text>CURRENT TURN IS BEING PROCESSED, PLEASE WAIT</Text>
         </Replace>
