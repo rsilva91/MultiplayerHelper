@@ -135,6 +135,7 @@
         </UpdateDatabase>		
         <UpdateText id="MPH_TEXTS">
             <File>lang/Text_EN.xml</File>
+            <File>lang/Text_FR.xml</File>
         </UpdateText>
 	
 	
@@ -312,6 +313,7 @@
 		<!-- General MPH Ingame Files -->
         <UpdateText id="MPH_INGAME_TEXTS">
             <File>lang/Text_EN.xml</File>
+            <File>lang/Text_FR.xml</File>
         </UpdateText>
 		
 		
@@ -465,6 +467,7 @@
     <File>data/MP_helper.lua</File>
 	<File>data/Victories.xml</File>
 	<File>lang/Text_EN.xml</File>
+	<File>lang/Text_FR.xml</File>
 	<File>license.txt</File>
 	<File>notice.txt</File>
 	
