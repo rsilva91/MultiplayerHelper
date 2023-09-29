@@ -295,6 +295,7 @@
 		<Row SourceGroup="Game" SourceId="MPH_PRESET" SourceValue="2" TargetGroup="Game" TargetId="ALLIANCE_MILITARY" TargetValue="0"/>
 		<!-- CivFR Squadron -->
 		<Row SourceGroup="Game" SourceId="MPH_PRESET" SourceValue="3" TargetGroup="Game" TargetId="MPH_OFFICIAL_GAME" TargetValue="1" />
+		<Row SourceGroup="Game" SourceId="MPH_PRESET" SourceValue="4" TargetGroup="Game" TargetId="PRIVATE_GAME" TargetValue="1" />
 		<Row SourceGroup="Game" SourceId="MPH_PRESET" SourceValue="3" TargetGroup="Game" TargetId="NO_DUPLICATE_LEADERS" TargetValue="0" Hash="0" />
 		<Row SourceGroup="Game" SourceId="MPH_PRESET" SourceValue="3" TargetGroup="Game" TargetId="NO_DUPLICATE_CIVILIZATIONS" TargetValue="0" Hash="0" />
 		<Row SourceGroup="Game" SourceId="MPH_PRESET" SourceValue="3" TargetGroup="Game" TargetId="GAME_START_ERA" TargetValue="ERA_ANCIENT" Hash="1"/>
@@ -370,6 +371,7 @@
 		<Row SourceGroup="Game" SourceId="MPH_PRESET" SourceValue="4" TargetGroup="Game" TargetId="ALLIANCE_MILITARY" TargetValue="1"/>
 		<!-- Phyphy 1vs1 -->
 		<Row SourceGroup="Game" SourceId="MPH_PRESET" SourceValue="5" TargetGroup="Game" TargetId="MPH_OFFICIAL_GAME" TargetValue="1" />
+		<Row SourceGroup="Game" SourceId="MPH_PRESET" SourceValue="4" TargetGroup="Game" TargetId="PRIVATE_GAME" TargetValue="1" />
 		<Row SourceGroup="Game" SourceId="MPH_PRESET" SourceValue="5" TargetGroup="Game" TargetId="NO_DUPLICATE_LEADERS" TargetValue="0" Hash="0" />
 		<Row SourceGroup="Game" SourceId="MPH_PRESET" SourceValue="5" TargetGroup="Game" TargetId="NO_DUPLICATE_CIVILIZATIONS" TargetValue="0" Hash="0" />
 		<Row SourceGroup="Game" SourceId="MPH_PRESET" SourceValue="5" TargetGroup="Game" TargetId="GAME_START_ERA" TargetValue="ERA_ANCIENT" Hash="1"/>
