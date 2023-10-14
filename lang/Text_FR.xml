@@ -779,7 +779,7 @@
             <Text>Pas d'échange d'Or</Text>
         </Replace>
         <Replace Tag="LOC_MPH_NO_TRADING_STRATEGICS_NAME" Language="fr_FR">
-            <Text>Pas d'échange dde ressources stratégiques</Text>
+            <Text>Pas d'échange de ressources stratégiques</Text>
         </Replace>
         <Replace Tag="LOC_MPH_NO_TRADING_LUXURIES_NAME" Language="fr_FR">
             <Text>Pas d'échange de ressources de luxe</Text>
@@ -886,10 +886,10 @@
             <Text>Draft et Teamer 4v4</Text>
         </Replace>
         <Replace Tag="MPH_PRESET_CPLFFA_DESC" Language="fr_FR">
-            <Text>Paramètres typiques d'une game CPL (ressources abondantes)</Text>
+            <Text>Paramètres typiques d'une game CPL (ressources abondantes, no map pin)</Text>
         </Replace>
         <Replace Tag="MPH_PRESET_CIVFRTEAMER_DESC" Language="fr_FR">
-            <Text>Paramètres typiques d'un teamer CivFR (ressources abondantes)</Text>
+            <Text>Paramètres typiques d'un teamer CivFR (ressources strats garanties)</Text>
         </Replace>
         <Replace Tag="MPH_PRESET_PHYPHY_DESC" Language="fr_FR">
             <Text>UwU Games but Timer not UwU</Text>
@@ -911,6 +911,12 @@
         </Row>
         <Row Tag="MPH_PRESET_2VI2_DESC" Language="fr_FR">
             <Text>Preset dédié au tournoi 2VI2 Invitational Cup</Text>
+        </Row>
+        <Row Tag="MPH_PRESET_CIVFRFFA_NAME" Language="fr_FR">
+            <Text>FFA CivFr</Text>
+        </Row>
+        <Row Tag="MPH_PRESET_CIVFRFFA_DESC" Language="fr_FR">
+            <Text>Paramètres typiques d'un FFA CivFr (ressources abondantes), no Alexis, no bonobo. Vive Gwernaro et les FFA Chill 3h.</Text>
         </Row>
     </LocalizedText>
 </GameData>
