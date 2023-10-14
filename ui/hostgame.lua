@@ -842,28 +842,14 @@ end
 function Squadron_Natural_Wonders()
 	local default = {}
 	default = {
-                "FEATURE_BARRINGER_CRATER",
-				"FEATURE_BIOLUMINESCENT_BAY",
-				"FEATURE_CERRO_DE_POTOSI",
-				"FEATURE_DALLOL",
-				"FEATURE_GRAND_MESA",
-				"FEATURE_KRAKATOA",
-				"FEATURE_LAKE_VICTORIA",
-				"FEATURE_LENCOIS_MARANHENSES",
-				"FEATURE_OUNIANGA",
-				"FEATURE_MOSI_OA_TUNYA",
-				"FEATURE_MOTLATSE_CANYON",
-				"FEATURE_KAILASH",
-				"FEATURE_NAMIB",
-				"FEATURE_OLD_FAITHFUL",
-				"FEATURE_SINAI",
-				"FEATURE_SALAR_DE_UYUNI",
-				"FEATURE_WULINGYUAN",
-				"FEATURE_SALAR_DE_UYUNI",
-				"FEATURE_SRI_PADA",
-				"FEATURE_GIBRALTAR",
-				"FEATURE_VREDEFORT_DOME",
-				"FEATURE_LYSEFJORDEN",
+				"FEATURE_BERMUDA_TRIANGLE"
+				}
+	GameConfiguration.SetValue("EXCLUDE_NATURAL_WONDERS",default)
+end
+
+function FFA_CivFr_Natural_Wonders()
+	local default = {}
+	default = {
 				"FEATURE_BERMUDA_TRIANGLE"
 				}
 	GameConfiguration.SetValue("EXCLUDE_NATURAL_WONDERS",default)
@@ -1019,7 +1005,12 @@ function CheckPreset()
 			TwoVITwo_Natural_Wonders()
 			TwoVITwo_CS()
 			GameConfiguration.SetValue("CITY_STATE_COUNT",4)
-		end 
+		end
+		-- FFA CivFr
+		if currentPreset == 7 then
+			print("Applied Squadron Settings")
+			FFA_CivFr_Natural_Wonders()
+		end	
 		Network.BroadcastGameConfig();	
 		OnUpdateUI()
 	end
