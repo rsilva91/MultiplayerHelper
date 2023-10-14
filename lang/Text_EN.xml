@@ -909,10 +909,11 @@
         </Row>
         <Row Tag="MPH_PRESET_2VI2_DESC" Language="en_US">
             <Text>Dedicated Preset for how 2VI2 Invitational Cup</Text>
-        <Row Tag="MPH_PRESET_CIVFRFFA_NAME" Language="en_US">
+        </Row>
+        <Row Tag="MPH_PRESET_CIVFRFFA_NAME" Language="en">
             <Text>FFA CivFr</Text>
         </Row>
-        <Row Tag="MPH_PRESET_CIVFRFFA_DESC" Language="en_US">
+        <Row Tag="MPH_PRESET_CIVFRFFA_DESC" Language="en">
             <Text>CivFR typical settings for FFA.</Text>
         </Row>
     </LocalizedText>
