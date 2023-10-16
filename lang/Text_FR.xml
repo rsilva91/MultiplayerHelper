@@ -916,7 +916,7 @@
             <Text>FFA CivFr</Text>
         </Row>
         <Row Tag="MPH_PRESET_CIVFRFFA_DESC" Language="fr_FR">
-            <Text>Paramètres typiques d'un FFA CivFr (ressources abondantes), no Alexis, no bonobo. Vive Gwernaro et les FFA Chill 3h.</Text>
+            <Text>Paramètres typiques d'un FFA CivFr (ressources abondantes).</Text>
         </Row>
     </LocalizedText>
 </GameData>
