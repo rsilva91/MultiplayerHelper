@@ -874,6 +874,9 @@
         <Replace Tag="MPH_PRESET_CPLSQUADRON_NAME" Language="en_US">
             <Text>CPL Premier League</Text>
         </Replace>
+        <Replace Tag="MPH_PRESET_CPLSQUADRON_DESC" language="en_US">
+            <Text>Premier League 4v4 with drafting</Text>
+        </Replace>
         <Replace Tag="MPH_PRESET_PHYPHY_NAME" Language="en_US">
             <Text>1v1 Blitz</Text>
         </Replace>
