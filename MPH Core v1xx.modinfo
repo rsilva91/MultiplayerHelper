@@ -136,6 +136,7 @@
         <UpdateText id="MPH_TEXTS">
             <File>lang/Text_EN.xml</File>
             <File>lang/Text_FR.xml</File>
+						<File>lang/Text_CN.xml</File>
         </UpdateText>
 	
 	
