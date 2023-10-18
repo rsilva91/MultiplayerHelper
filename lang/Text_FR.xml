@@ -3,19 +3,18 @@
     <LocalizedText>
 
 		<!-- Author : Ybanca -->
-
-        <!-- New entries -->
-        <Replace Tag="LOC_MAP_RICH_HIGHTLANDS_NANME" language="fr_FR">
+        <Replace Tag="LOC_MAP_RICH_HIGHLANDS_NAME" language="fr_FR">
             <Text>Riche Plateaux</Text>
         </Replace>
-        <Replace Tag="LOC_MAP_RICH_HIGHTLANDS_DESCRIPTION" language="fr_FR">
+        <Replace Tag="LOC_MAP_RICH_HIGHLANDS_DESCRIPTION" language="fr_FR">
             <Text>Plateaux, avec plus de resources</Text>
         </Replace>
+		-->
         <Replace Tag="LOC_MPH_TURN_IS_PROCESSED" language="fr_FR">
             <Text>LE TOUR ACTUEL EST EN COURS DE TRAITEMENT, VEUILLEZ PATIENTER</Text>
         </Replace>
         <Replace Tag="LOC_MPH_MODCHECK_BUTTON_TOOLTIP" language="fr_FR">
-            <Text>Vérifie la version des mods installés localement sur les clients (Support: BBS, BBG, MPH).[NEWLINE] Nécessite que MPH soit préchargé sur l'hôte et le client.</Text>
+            <Text>Vérifie la version des mods installés localement sur les clients (Support: BBS, BBG, MPH).[NEWLINE]Nécessite que MPH soit préchargé sur l'hôte et le client.</Text>
         </Replace>
         <Replace Tag="CPL_SYNCTURN_NAME" language="fr_FR">
             <Text>Synchronisation du tour</Text>
@@ -33,10 +32,10 @@
             <Text>Unprepared</Text>
         </Replace>
         <Replace Tag="LOC_ABILITY_LAST_MOVED_DESCRIPTION" language="fr_FR">
-            <Text>[ICON_Strength] Puissance de combat -20 lors d'une attaque.</Text>
+            <Text>[ICON_STRENGTH] Puissance de combat -20 lors d'une attaque.</Text>
         </Replace>
         <Replace Tag="LOC_MOD_LAST_MOVED_DESCRIPTION" language="fr_FR">
-            <Text>[ICON_Strength] Puissance de combat -20 lors d'une attaque pendant les premières secondes d'un tour.</Text>
+            <Text>[ICON_STRENGTH] Puissance de combat -20 lors d'une attaque pendant les premières secondes d'un tour.</Text>
         </Replace>
 
         <Replace Tag="LOC_ABILITY_LAST_MOVED_READY_NAME" language="fr_FR">
@@ -49,54 +48,54 @@
             <Text>Déclarations d'amitié</Text>
         </Replace>
         <Replace Tag="CPL_FS_DESC" language="fr_FR">
-            <Text>Définit le nombre maximum d'alliances ou de déclarations d'amitié pour chaque joueur (Par défaut = 2)</Text>
+            <Text>Définit le nombre maximum d'alliances ou de déclarations d'amitié pour chaque joueur (par défaut = 2).</Text>
         </Replace>
         <Replace Tag="CPL_CS_NAME" language="fr_FR">
             <Text>Cités-états capturées</Text>
         </Replace>
         <Replace Tag="CPL_CS_DESC" language="fr_FR">
-            <Text>Définit le nombre maximum de Cités-états possédées par chaque joueur. Si un joueur en capture au-delà du seuil, elle sera automatiquement rasée (Par défaut = 1)</Text>
+            <Text>Définit le nombre maximum de Cités-états possédées par chaque joueur. Si un joueur en capture au-delà du seuil, elle sera automatiquement rasée (par défaut = 1).</Text>
         </Replace>
 
         <Replace Tag="CPL_IRONMAN_NAME" language="fr_FR">
             <Text>Ironman</Text>
         </Replace>
         <Replace Tag="CPL_IRONMAN_DESC" language="fr_FR">
-            <Text>Pas de vote CC, un combat jusqu'à la mort ! (Par défaut = Off)</Text>
+            <Text>Pas de vote CC, un combat jusqu'à la mort (par défaut = OFF) !</Text>
         </Replace>
 
         <Replace Tag="CPL_NO_PINS_NAME" language="fr_FR">
             <Text>Pas de pin de map</Text>
         </Replace>
         <Replace Tag="CPL_NO_PINS_DESC" language="fr_FR">
-            <Text>Retire la capacité d'utiliser les pin, pour les problèmes de performances (Par défaut = Off)</Text>
+            <Text>Retire la capacité d'utiliser les pin, pour les problèmes de performances (par défaut = OFF).</Text>
         </Replace>
 
         <Replace Tag="CPL_SUDDENDEATH_NAME" language="fr_FR">
             <Text>Mort subite</Text>
         </Replace>
         <Replace Tag="CPL_SUDDENDEATH_DESC" language="fr_FR">
-            <Text>Les joueurs avec les scores les plus bas sont petit à petit éliminés ! (Par défaut = Off)</Text>
+            <Text>Les joueurs avec les scores les plus bas sont petit à petit éliminés (par défaut = OFF) !</Text>
         </Replace>
 
         <Replace Tag="CPL_FREECITY_STRONGER_NAME" language="fr_FR">
             <Text>Villes libres plus fortes</Text>
         </Replace>
         <Replace Tag="CPL_FREECITY_STRONGER_DESC" language="fr_FR">
-            <Text>Les villes libres construisent leurs murs plsu vite (Par défaut = Off)</Text>
+            <Text>Les villes libres construisent leurs murs plus vite (par défaut = OFF).</Text>
         </Replace>
 
         <Replace Tag="CPL_LASTMOVE_OPT_NAME" language="fr_FR">
             <Text>Nerf du last move</Text>
         </Replace>
         <Replace Tag="CPL_LASTMOVE_OPT_DESC" language="fr_FR">
-            <Text>Les unités attaquant pendant les 10 dernières secondes d'un tour reçoivent un malus au début du prochain tour, pour éviter les abus de last move first move (Par défaut = Off) </Text>
+            <Text>Les unités attaquant pendant les 10 dernières secondes d'un tour reçoivent un malus au début du prochain tour, pour éviter les abus de last move first move (par défaut = OFF).</Text>
         </Replace>
         <Replace Tag="CPL_FREECITY_OPT_NAME" language="fr_FR">
             <Text>Villes libres lors d'un irrel</Text>
         </Replace>
         <Replace Tag="CPL_FREECITY_OPT_DESC" language="fr_FR">
-            <Text>En FFA, les joueurs irrel verraient leurs villes se transformer en villes libres, permettant de rompre les Alliances/Amitiés préexistantes (Par défaut = On)</Text>
+            <Text>En FFA, les joueurs irrel verraient leurs villes se transformer en villes libres, permettant de rompre les Alliances/Amitiés préexistantes (par défaut = ON).</Text>
         </Replace>
 
 
@@ -104,7 +103,7 @@
             <Text>Règles CivPlayers League</Text>
         </Replace>
         <Replace Tag="CPL_RULES_DESC" language="fr_FR">
-            <Text>Applique les règles de CPL en jeu : vote CC, vetos et ainsi de suite (Par défaut = On)</Text>
+            <Text>Applique les règles de CPL en jeu : vote CC, vetos et ainsi de suite (par défaut = ON.)</Text>
         </Replace>
 
         <Replace Tag="CPL_SMARTTIMER_NAME" language="fr_FR">
@@ -119,28 +118,28 @@
         </Replace>
 
         <Replace Tag="CPL_TRADING_CITY_DESC" language="fr_FR">
-            <Text>Autorise les joueurs à échanger leurs villes (Par défaut = Off)</Text>
+            <Text>Autorise les joueurs à échanger leurs villes (par défaut = OFF).</Text>
         </Replace>
         <Replace Tag="CPL_TRADING_GOLD_NAME" language="fr_FR">
             <Text>Échange d'Or</Text>
         </Replace>
         <Replace Tag="CPL_TRADING_GOLD_DESC" language="fr_FR">
-            <Text>Autorise les joueurs à échanger de l'Or (Par défaut = On)</Text>
+            <Text>Autorise les joueurs à échanger de [ICON_GOLD] l'Or (par défaut = ON).</Text>
         </Replace>
         <Replace Tag="CPL_TRADING_LUXURY_NAME" language="fr_FR">
             <Text>Échange de ressources de luxe</Text>
         </Replace>
         <Replace Tag="CPL_TRADING_LUXURY_DESC" language="fr_FR">
-            <Text>Autorise les joueurs à échanger des ressources de luxe (Par défaut = On)</Text>
+            <Text>Autorise les joueurs à échanger des ressources de luxe (par défaut = ON).</Text>
         </Replace>
         <Replace Tag="CPL_TRADING_STRATEGIC_NAME" language="fr_FR">
             <Text>Échange de ressources stratégiques</Text>
         </Replace>
         <Replace Tag="CPL_TRADING_STRATEGIC_DESC" language="fr_FR">
-            <Text>Autorise les joueurs à échanger des ressources stratégiques(Par défaut = On)</Text>
+            <Text>Autorise les joueurs à échanger des ressources stratégiques(par défaut = ON).</Text>
         </Replace>
         <Replace Tag="CPL_TRADING_NONE_NAME" language="fr_FR">
-            <Text>banni</Text>
+            <Text>Banni</Text>
         </Replace>
         <Replace Tag="CPL_TRADING_NONE_DESC" language="fr_FR">
             <Text>Ce type d'échange ne sera pas possible en jeu.</Text>
@@ -162,32 +161,32 @@
             <Text>Dirigeants bannis</Text>
         </Replace>
         <Replace Tag="LOC_SETUP_ERROR_NO_RANDOM_LEADERS" language="fr_FR">
-            <Text>Par de dirigeant aléatoire</Text>
+            <Text>Pas de dirigeant aléatoire</Text>
         </Replace>
 
         <Replace Tag="CPL_BAN_FORMAT_NAME" language="fr_FR">
             <Text>Mode Draft</Text>
         </Replace>
         <Replace Tag="CPL_BAN_FORMAT_DESC" language="fr_FR">
-            <Text>Retire certains dirigeants du jeu (Par défaut = Pas d'aléatoire)</Text>
+            <Text>Retire certains dirigeants du jeu (par défaut = pas d'aléatoire).</Text>
         </Replace>
         <Replace Tag="BAN_FORMAT_NOBAN_NAME" language="fr_FR">
             <Text>Aucun</Text>
         </Replace>
         <Replace Tag="BAN_FORMAT_NOBAN_DESC" language="fr_FR">
-            <Text>Pas de limitation de choix</Text>
+            <Text>Pas de limitation de choix.</Text>
         </Replace>
         <Replace Tag="BAN_FORMAT_NORANDOM_NAME" language="fr_FR">
-            <Text>Par de dirigeant aléatoire</Text>
+            <Text>Pas de dirigeant aléatoire</Text>
         </Replace>
         <Replace Tag="BAN_FORMAT_NORANDOM_DESC" language="fr_FR">
-            <Text>Les joueurs seront forcés à choisir un dirigeant</Text>
+            <Text>Les joueurs seront forcés à choisir un dirigeant.</Text>
         </Replace>
         <Replace Tag="BAN_FORMAT_6BANS_NAME" language="fr_FR">
             <Text>6 ban accordés</Text>
         </Replace>
         <Replace Tag="BAN_FORMAT_6BANS_DESC" language="fr_FR">
-            <Text>L'host pourras bannir 6 dirigeants</Text>
+            <Text>L'host pourra bannir 6 dirigeants.</Text>
         </Replace>
         <Replace Tag="BAN_FORMAT_TOURNAMENT_NAME" language="fr_FR">
             <Text>Tournoi</Text>
@@ -239,13 +238,13 @@
             <Text>Compétitif</Text>
         </Replace>
         <Replace Tag="TIMER_DEFAULT_DESC" language="fr_FR">
-            <Text>Augmente en fonction du nombre d'unités, de villes, de guerres, du typede partie etc. Idéal pour un tournoi.</Text>
+            <Text>Augmente en fonction du nombre d'unités, de villes, de guerres, du type de partie etc. Idéal pour un tournoi.</Text>
         </Replace>
         <Replace Tag="TIMER_NONE_NAME" language="fr_FR">
             <Text>Off</Text>
         </Replace>
         <Replace Tag="TIMER_NONE_DESC" language="fr_FR">
-            <Text>Désactive le Smart-Timer lua pour permettre au chronomètre de base ou à un chronomètre sql de prendre le dessus</Text>
+            <Text>Désactive le Smart-Timer.lua pour permettre au chronomètre de base ou à un chronomètre sql de prendre le dessus</Text>
         </Replace>
         <Replace Tag="TIMER_LEGE_NAME" language="fr_FR">
             <Text>Insane</Text>
@@ -257,25 +256,25 @@
             <Text>Classique</Text>
         </Replace>
         <Replace Tag="TIMER_S1A1_DESC" language="fr_FR">
-            <Text>Chronomètre dynamique de S1al, bon pour les joueurs débutants</Text>
+            <Text>Chronomètre dynamique de S1al, bon pour les joueurs débutants.</Text>
         </Replace>
         <Replace Tag="TIMER_SEPHI_NAME" language="fr_FR">
             <Text>Modéré</Text>
         </Replace>
         <Replace Tag="TIMER_SEPHI_DESC" language="fr_FR">
-            <Text>Chronomètre de Sephi : 30 secondes de base, puis une seconde supplémentaire par tour</Text>
+            <Text>Chronomètre de Sephi : 30 secondes de base, puis une seconde supplémentaire par tour.</Text>
         </Replace>
         <Replace Tag="TIMER_CASUAL_NAME" language="fr_FR">
             <Text>Débutant</Text>
         </Replace>
         <Replace Tag="TIMER_CASUAL_DESC" language="fr_FR">
-            <Text>Idéal pour les joueurs débutants</Text>
+            <Text>Idéal pour les joueurs débutants.</Text>
         </Replace>
         <Replace Tag="TIMER_PHYPHY_NAME" language="fr_FR">
             <Text>Blitz</Text>
         </Replace>
         <Replace Tag="TIMER_PHYPHY_DESC" language="fr_FR">
-            <Text>Chrnomètre de 15 secondes, qui augmente de quelques secondes tous les 15/20 tours</Text>
+            <Text>Chrnomètre de 15 secondes, qui augmente de quelques secondes tous les 15/20 tours.</Text>
         </Replace>
         <Replace Tag="FC_NOTHING_NAME" language="fr_FR">
             <Text>Aucun</Text>
@@ -287,13 +286,13 @@
             <Text>Transformation en villes libres</Text>
         </Replace>
         <Replace Tag="FC_FREE_DESC" language="fr_FR">
-            <Text>En FFA, les joueurs irrel verraient leurs villes se transformer en villes libres</Text>
+            <Text>En FFA, les joueurs irrel verraient leurs villes se transformer en villes libres.</Text>
         </Replace>
         <Replace Tag="FC_RAZE_NAME" language="fr_FR">
             <Text>Transformation en villes rasées</Text>
         </Replace>
         <Replace Tag="FC_RAZE_DESC" language="fr_FR">
-            <Text>En FFA, les joueurs irrel verraient leurs villes se faire raser</Text>
+            <Text>En FFA, les joueurs irrel verraient leurs villes se faire raser.</Text>
         </Replace>
 
         <Replace Tag="LOC_MPH_PLAYER_OPTIONS" language="fr_FR">
@@ -322,13 +321,13 @@
             <Text>Un remap a été voté.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_VOTEPANEL_FEEDBACK_REMAP_DEFAULT_TEXT" language="fr_FR">
-            <Text>Le vote serait adopté si la majorité simple des votants était favorable.[NEWLINE]Les joueurs en [COLOR_Grey]gris[ENDCOLOR] ne peuvent pas voter.[NEWLINE]Les joueurs ayant déjà voté sont en [COLOR_Civ6Green]green[ENDCOLOR].</Text>
+            <Text>Le vote serait adopté si la majorité simple des votants était favorable.[NEWLINE]Les joueurs en [COLOR_Grey]gris[ENDCOLOR] ne peuvent pas voter.[NEWLINE]Les joueurs en [COLOR_Civ6Green]vert[ENDCOLOR] ont déjà voté.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_VOTEPANEL_FEEDBACK_REMAP_PASS_TEXT" language="fr_FR">
-            <Text>Les POUR ont gagné. La majorité a parlé, la partie redémarrera automatiquement sur une nouvelle carte après validation par l'hôte.[NEWLINE]Les joueurs en [COLOR_Civ6Green]vert[ENDCOLOR] ont voté POUR.</Text>
+            <Text>Les [COLOR_Civ6Green]POUR[ENDCOLOR] ont gagné, la partie redémarrera automatiquement sur une nouvelle carte après validation par l'hôte.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_VOTEPANEL_FEEDBACK_REMAP_FAIL_TEXT" language="fr_FR">
-            <Text>Les CONTRE ont gagné. La majorité a parlé, la partie se poursuivra sur la carte actuelle.[NEWLINE]Les joueurs en [COLOR_Civ6Red]rouge[ENDCOLOR]ont voté CONTRE.</Text>
+            <Text>Les [COLOR_Civ6Red]CONTRE[ENDCOLOR] ont gagné, la partie se poursuivra sur la carte actuelle.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_VOTELEFT_BUTTON_1_REMAP_TEXT" language="fr_FR">
             <Text>POUR</Text>
@@ -346,7 +345,7 @@
             <Text>Annuler</Text>
         </Replace>
         <Replace Tag="LOC_MPH_REMAPPANEL_LABEL_TEXT" language="fr_FR">
-            <Text>Entrez une seed custom ou laissez vide pour recommencer la partie sur une nouvelle carte. La pause devra être enlevée pour que les données soient correctement envoyées. La partie sera automatiquement mise en pause pour éviter les problèmes de resynch.</Text>
+            <Text>Entrez une seed custom ou laissez vide pour recommencer la partie sur une nouvelle carte. La pause devra être enlevée pour que les données soient correctement envoyées. La partie sera automatiquement mise en pause pour éviter les problèmes de resynchronisation.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_REMAP_VOTE_TEXT" language="fr_FR">
             <Text>VOTE REMAP</Text>
@@ -373,7 +372,7 @@
             <Text>Donner le contrôle à l'IA.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_DROP_HOST_WARNING_TEXT" language="fr_FR">
-            <Text>[COLOR_Civ6Red]Si vous choisissez de reprendre la partie, le joueur déconnecté sera affecté par l'IA et ses unités auront bougé avant qu'il ne se reconnecte.[ENDCOLOR]</Text>
+            <Text>[COLOR_Civ6Red]SI VOUS CHOISISSEZ DE REPRENDRE LA PARTIE, L'IA JOUERA À LA PLACE DU JOUEUR DÉCONNECTÉ.[ENDCOLOR]</Text>
         </Replace>
         <Replace Tag="LOC_MPH_DROP_NORMAL_BUTTON_TEXT" language="fr_FR">
             <Text>Compris</Text>
@@ -587,7 +586,7 @@
             <Text>Online+</Text>
         </Replace>
         <Replace Tag="LOC_GAMESPEED_FAST_HELP" Language="fr_FR">
-            <Text>Légèrmeent plus rapide que la vitesse en ligne</Text>
+            <Text>Légèrement plus rapide que la vitesse en ligne</Text>
         </Replace>
         <Replace Tag="LOC_GAME_MENU_RETIME_TITLE" Language="fr_FR">
             <Text>CHANGE DEATH TIMER</Text>
@@ -596,16 +595,16 @@
             <Text>Combien de temps (secondes) avant que le prochain joueur soit éliminé ? (ex : 1200 = 20 mins)</Text>
         </Replace>
         <Replace Tag="LOC_GAME_MENU_RETIME_BOX" Language="fr_FR">
-            <Text>Secodnes restantes :</Text>
+            <Text>Secondes restantes :</Text>
         </Replace>
         <Replace Tag="LOC_GAME_MENU_RETIME_BUTTON" Language="fr_FR">
             <Text>Confirmer</Text>
         </Replace>
         <Replace Tag="LOC_SUDDEN_DEATH_TOP_BOX" Language="fr_FR">
-            <Text>[ICON_TURN] Mort Subite :</Text>
+            <Text>[ICON_TURN] Mort subite :</Text>
         </Replace>
         <Replace Tag="LOC_GAMEMODE_SUDDEN_DEATH_NAME" Language="fr_FR">
-            <Text>mort Subite</Text>
+            <Text>Mort subite</Text>
         </Replace>
         <Replace Tag="LOC_GAMEMODE_SUDDEN_DEATH_DESCRIPTION" Language="fr_FR">
             <Text>Les joueurs sont éliminés au fur et à mesure que l'horloge tourne.</Text>
@@ -653,7 +652,7 @@
             <Text>Lancer la draft.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_RESYNC_ADMIN_TEXT" language="fr_FR">
-            <Text>RESYNCHONISATION GÉNÉRALE</Text>
+            <Text>RESYNCH GÉNÉRALE</Text>
         </Replace>
         <Replace Tag="LOC_MPH_RESYNC_ADMIN_TOOLTIP" language="fr_FR">
             <Text>Provoque une resynchronisation à l'host pour tous les joueurs. L'hôte ne doit pas enlever la pause pendant la resynchronisation.</Text>
@@ -671,7 +670,7 @@
             <Text>Oblige tous les joueurs à termienr leur tour.</Text>
         </Replace>
         <Replace Tag="LOC_GAME_MENU_RESYNC_TITLE" language="fr_FR">
-            <Text>DEMANDE DE RESYNCHONISATION GÉNÉRALE</Text>
+            <Text>DEMANDE DE RESYNCH GÉNÉRALE</Text>
         </Replace>
         <Replace Tag="LOC_GAME_MENU_RESYNC_LABEL" language="fr_FR">
             <Text>Tous les joueurs vont être resynchronisé à l'hôte, êtes-vous sûr ?</Text>
@@ -779,7 +778,7 @@
             <Text>Pas d'échange d'Or</Text>
         </Replace>
         <Replace Tag="LOC_MPH_NO_TRADING_STRATEGICS_NAME" Language="fr_FR">
-            <Text>Pas d'échange de ressources stratégiques</Text>
+            <Text>Pas d'échange dee ressources stratégiques</Text>
         </Replace>
         <Replace Tag="LOC_MPH_NO_TRADING_LUXURIES_NAME" Language="fr_FR">
             <Text>Pas d'échange de ressources de luxe</Text>
@@ -801,7 +800,7 @@
             <Text>Cocher pour empêcher l'échange de faveurs.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_NO_TRADING_GOLD_DESC" Language="fr_FR">
-            <Text>Cocher pour empêcher l'échange d'or.</Text>
+            <Text>Cocher pour empêcher l'échange [ICON_GOLD] d'Or.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_NO_TRADING_STRATEGICS_DESC" Language="fr_FR">
             <Text>Cocher pour empêcher l'échange de ressources stratégiques.</Text>
@@ -886,10 +885,10 @@
             <Text>Draft et Teamer 4v4</Text>
         </Replace>
         <Replace Tag="MPH_PRESET_CPLFFA_DESC" Language="fr_FR">
-            <Text>Paramètres typiques d'une game CPL (ressources abondantes, no map pin)</Text>
+            <Text>Paramètres typiques d'une game CPL (ressources abondantes)</Text>
         </Replace>
         <Replace Tag="MPH_PRESET_CIVFRTEAMER_DESC" Language="fr_FR">
-            <Text>Paramètres typiques d'un teamer CivFR (ressources strats garanties)</Text>
+            <Text>Paramètres typiques d'un teamer CivFR (ressources abondantes)</Text>
         </Replace>
         <Replace Tag="MPH_PRESET_PHYPHY_DESC" Language="fr_FR">
             <Text>UwU Games but Timer not UwU</Text>
@@ -912,11 +911,8 @@
         <Row Tag="MPH_PRESET_2VI2_DESC" Language="fr_FR">
             <Text>Preset dédié au tournoi 2VI2 Invitational Cup</Text>
         </Row>
-        <Row Tag="MPH_PRESET_CIVFRFFA_NAME" Language="fr_FR">
-            <Text>FFA CivFr</Text>
-        </Row>
-        <Row Tag="MPH_PRESET_CIVFRFFA_DESC" Language="fr_FR">
-            <Text>Paramètres typiques d'un FFA CivFr (ressources abondantes).</Text>
-        </Row>
+		<Replace Tag="MPH_PRESET_CPLSQUADRON_DESC" Language="fr_FR">
+			<Text>Preset pour les game de CPL League.</Text>
+		</Replace>
     </LocalizedText>
 </GameData>
