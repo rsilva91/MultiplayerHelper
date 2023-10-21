@@ -1599,7 +1599,7 @@ function Refresh()
 	end
 	
 	Controls.PhaseLabel_Version:SetHide(false) 
-	Controls.PhaseLabel_Version:SetText("v"..g_version) 
+	Controls.PhaseLabel_Version:SetText("v"..g_version)
 
 	-- Civ+ Player mod bug
 	if isCivPlayerName == true then
