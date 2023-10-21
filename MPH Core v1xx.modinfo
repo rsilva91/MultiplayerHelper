@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Mod id="619ac86e-d99d-4bf3-b8f0-8c5b8c402176" version="153">
+<Mod id="619ac86e-d99d-4bf3-b8f0-8c5b8c402176" version="154">
 
   <Properties>
     <Name>LOC_MPH_TITLE</Name>
@@ -14,21 +14,24 @@
   
 	<LocalizedText>
 		<Text id="LOC_MPH_TITLE">
-			<en_US>Multiplayer Helper 1.5.3</en_US>
-			<fr_FR>Multiplayer Helper 1.5.3</fr_FR>
+			<en_US>Multiplayer Helper 1.5.4</en_US>
+			<fr_FR>Multiplayer Helper 1.5.4</fr_FR>
+			<zh_Hans_CN>MPH 多人游戏助手 1.5.4</zh_Hans_CN>
 		</Text>
 		<Text id="LOC_MPH_TEASER">
 			<en_US>Esport oriented mod to help tournament and game statibility.</en_US>
             <fr_FR>Mod pour l'organisation de tournois Esports sur Civilization.</fr_FR>
+						<zh_Hans_CN>面向于电子竞技的模组，提升比赛和游戏的稳定性。</zh_Hans_CN>
 		</Text>
 		<Text id="LOC_MPH_DESCRIPTION">
 			<en_US>Esport oriented mod to help tournament, game statibility, and improving overall multiplayer experience.[NEWLINE][NEWLINE][COLOR_RED]You need to restart the game when you activate or deactivate the mod[ENDCOLOR][NEWLINE][NEWLINE]Some functionalities would be missing if you don't (e.g. Drafting)</en_US>
             <fr_FR>Mod pour l'organisation de tournois Esports sur Civilization. Ameliore la statiblite et ajoute de nouvelles options en Multijoueurs[NEWLINE][NEWLINE][COLOR_RED]Vous devez redemarrer le jeu la premiere fois que vous activez ou desactivez ce mod[ENDCOLOR][NEWLINE][NEWLINE]Certaines fonctionnalites seront indisponibles si vous ne le faites pas (e.g. Drafting)</fr_FR>
+						<zh_Hans_CN>面向于电子竞技的模组，提升比赛、游戏的稳定性，并全面改善多人游戏的体验。[NEWLINE][NEWLINE][COLOR_RED]每次开启和关闭该模组时需要重启游戏以生效。[ENDCOLOR][NEWLINE][NEWLINE]否则模组中的一些功能会失效（例如征召功能）</zh_Hans_CN>
 		</Text>
 	</LocalizedText>
 	
 	
-   <ActionCriteria>
+  <ActionCriteria>
 		<Criteria id="Expansion2">
 			<GameCoreInUse>Expansion2</GameCoreInUse>
 		</Criteria>
