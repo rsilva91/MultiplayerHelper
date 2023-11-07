@@ -16,7 +16,7 @@
 		<Text id="LOC_MPH_TITLE">
 			<en_US>Multiplayer Helper 1.5.5</en_US>
 			<fr_FR>Multiplayer Helper 1.5.5</fr_FR>
-			<zh_Hans_CN>MPH 多人游戏助手 1.5.5</zh_Hans_CN>
+			<!-- <zh_Hans_CN>MPH 多人游戏助手 1.5.5</zh_Hans_CN> -->
 			<ru_RU>Multiplayer Helper 1.5.5</ru_RU>
 		</Text>
 		<Text id="LOC_MPH_TEASER">
@@ -141,8 +141,8 @@
         <UpdateText id="MPH_TEXTS">
             <File>lang/Text_EN.xml</File>
             <File>lang/Text_FR.xml</File>
-						<File>lang/Text_CN.xml</File>
-						<File>lang/Text_RU.xml</File>
+			<!-- <File>lang/Text_CN.xml</File> -->
+			<File>lang/Text_RU.xml</File>
         </UpdateText>
 	
 	
@@ -321,8 +321,8 @@
         <UpdateText id="MPH_INGAME_TEXTS">
             <File>lang/Text_EN.xml</File>
             <File>lang/Text_FR.xml</File>
-						<File>lang/Text_CN.xml</File>
-						<File>lang/Text_RU.xml</File>
+			<!-- <File>lang/Text_CN.xml</File> -->
+			<File>lang/Text_RU.xml</File>
         </UpdateText>
 		
 		
@@ -477,7 +477,7 @@
 	<File>data/Victories.xml</File>
 	<File>lang/Text_EN.xml</File>
 	<File>lang/Text_FR.xml</File>
-	<File>lang/Text_CN.xml</File>
+	<!-- <File>lang/Text_CN.xml</File> -->
 	<File>lang/Text_RU.xml</File>
 	<File>license.txt</File>
 	<File>notice.txt</File>
