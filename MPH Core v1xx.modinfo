@@ -16,7 +16,7 @@
 		<Text id="LOC_MPH_TITLE">
 			<en_US>Multiplayer Helper 1.5.5</en_US>
 			<fr_FR>Multiplayer Helper 1.5.5</fr_FR>
-			<!-- <zh_Hans_CN>MPH 多人游戏助手 1.5.5</zh_Hans_CN> -->
+			<zh_Hans_CN>MPH 多人游戏助手 1.5.5</zh_Hans_CN>
 			<ru_RU>Multiplayer Helper 1.5.5</ru_RU>
 		</Text>
 		<Text id="LOC_MPH_TEASER">
@@ -29,7 +29,7 @@
 			<en_US>Esport oriented mod to help tournament, game statibility, and improving overall multiplayer experience.[NEWLINE][NEWLINE][COLOR_RED]You need to restart the game when you activate or deactivate the mod[ENDCOLOR][NEWLINE][NEWLINE]Some functionalities would be missing if you don't (e.g. Drafting)</en_US>
             <fr_FR>Mod pour l'organisation de tournois Esports sur Civilization. Ameliore la statiblite et ajoute de nouvelles options en Multijoueurs[NEWLINE][NEWLINE][COLOR_RED]Vous devez redemarrer le jeu la premiere fois que vous activez ou desactivez ce mod[ENDCOLOR][NEWLINE][NEWLINE]Certaines fonctionnalites seront indisponibles si vous ne le faites pas (e.g. Drafting)</fr_FR>
 						<zh_Hans_CN>面向于电子竞技的模组，提升比赛、游戏的稳定性，并全面改善多人游戏的体验。[NEWLINE][NEWLINE][COLOR_RED]每次开启和关闭该模组时需要重启游戏以生效。[ENDCOLOR][NEWLINE][NEWLINE]否则模组中的一些功能会失效（例如征召功能）</zh_Hans_CN>
-						<ru_RU>Мод, созданный для улучшения игровой стабильности сетевых игр и расширения их функционала, а также для удобного проведения киберспортивных соревнований.[NEWLINE][NEWLINE][COLOR_RED]Вы должны перезаходить в игру каждый раз, когда вы активируете или деактивируете данный мод[ENDCOLOR][NEWLINE][NEWLINE]Если вы не сделаете это, часть функционала не будет работать (Напр., режим драфта)</ru_RU>
+						<ru_RU>Мод, созданный для улучшения игровой стабильности сетевых игр и расширения их функционала, также для удобного проведения киберспортивных соревнований.[NEWLINE][NEWLINE][COLOR_RED]Вы должны перезаходить в игру каждый раз, когда вы активируете или деактивируете данный мод[ENDCOLOR][NEWLINE][NEWLINE]Если вы не сделаете это, часть функционала не будет работать (Напр., режим драфта)</ru_RU>
 		</Text>
 	</LocalizedText>
 	
@@ -141,7 +141,7 @@
         <UpdateText id="MPH_TEXTS">
             <File>lang/Text_EN.xml</File>
             <File>lang/Text_FR.xml</File>
-			<!-- <File>lang/Text_CN.xml</File> -->
+		<!--	<File>lang/Text_CN.xml</File> -->
 			<File>lang/Text_RU.xml</File>
         </UpdateText>
 	
