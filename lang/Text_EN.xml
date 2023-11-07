@@ -3,7 +3,7 @@
     <LocalizedText>
 
         <!-- New entries -->
-        <Replace Tag="LOC_MAP_RICH_HIGHTLANDS_NANME" language="en">
+        <Replace Tag="LOC_MAP_RICH_HIGHTLANDS_NANME" language="en_US">
             <Text>Rich Highlands</Text>
         </Replace>
         <Replace Tag="LOC_MAP_RICH_HIGHTLANDS_DESCRIPTION" language="en_US">
