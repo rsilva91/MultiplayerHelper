@@ -581,73 +581,73 @@
             <Text>(Host Only) [NEWLINE]Launch: Start the draft [NEWLINE]Skip: Proceed to the next step [NEWLINE]Unlock: Allows players to swap slots before the game begins </Text>
         </Replace>
 
-        <Replace Tag="LOC_GAMESPEED_FAST_NAME" Language="en_US_US">
+        <Replace Tag="LOC_GAMESPEED_FAST_NAME" Language="en_US">
             <Text>Online+</Text>
         </Replace>
-        <Replace Tag="LOC_GAMESPEED_FAST_HELP" Language="en_US_US">
+        <Replace Tag="LOC_GAMESPEED_FAST_HELP" Language="en_US">
             <Text>Slightly faster than Online speed to allow playing in Standard Age / Standard Resources</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_Men_USU_RETIME_TITLE" Language="en_US_US">
+        <Replace Tag="LOC_GAME_Men_USU_RETIME_TITLE" Language="en_US">
             <Text>CHANGE DEATH TIMER</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_Men_USU_RETIME_LABEL" Language="en_US_US">
+        <Replace Tag="LOC_GAME_Men_USU_RETIME_LABEL" Language="en_US">
             <Text>Please en_USter how many seconds before the next player get eliminated? (e.g. 1200 = 20 mins)</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_Men_USU_RETIME_BOX" Language="en_US_US">
+        <Replace Tag="LOC_GAME_Men_USU_RETIME_BOX" Language="en_US">
             <Text>Remaining seconds:</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_Men_USU_RETIME_BUTTON" Language="en_US_US">
+        <Replace Tag="LOC_GAME_Men_USU_RETIME_BUTTON" Language="en_US">
             <Text>Confirm</Text>
         </Replace>
-        <Replace Tag="LOC_SUDDen_US_DEATH_TOP_BOX" Language="en_US_US">
+        <Replace Tag="LOC_SUDDen_US_DEATH_TOP_BOX" Language="en_US">
             <Text>[ICON_TURN]Sudden_US Death:</Text>
         </Replace>
-        <Replace Tag="LOC_GAMEMODE_SUDDen_US_DEATH_NAME" Language="en_US_US">
+        <Replace Tag="LOC_GAMEMODE_SUDDen_US_DEATH_NAME" Language="en_US">
             <Text>Sudden_US Death Mode</Text>
         </Replace>
-        <Replace Tag="LOC_GAMEMODE_SUDDen_US_DEATH_DESCRIPTION" Language="en_US_US">
+        <Replace Tag="LOC_GAMEMODE_SUDDen_US_DEATH_DESCRIPTION" Language="en_US">
             <Text>Players are gradually eliminated based on their score as the clock is inexorably ticking...Standing the test of time has just taken_US a whole new meaning! </Text>
         </Replace>
-        <Replace Tag="LOC_MPH_RETIME_ADMIN_TEXT" Language="en_US_US">
+        <Replace Tag="LOC_MPH_RETIME_ADMIN_TEXT" Language="en_US">
             <Text>SUDDen_US DEATH TIMER</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_RETIME_ADMIN_TOOLTIP" Language="en_US_US">
+        <Replace Tag="LOC_MPH_RETIME_ADMIN_TOOLTIP" Language="en_US">
             <Text>Adjust the remaining time before a player gets eliminated.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DRAFT_TIMER_TOOLTIP" Language="en_US_US">
+        <Replace Tag="LOC_MPH_DRAFT_TIMER_TOOLTIP" Language="en_US">
             <Text>Each phase of the tournamen_USt draft would have a timer:[NEWLINE]30 secs for banning a map[NEWLINE]60 secs for banning a leader[NEWLINE]90 secs for picking a leader[NEWLINE]When_US the timer expires, the player would loss its ban or forced to play as a random civ.</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_Men_USU_Ren_USAME_TITLE" Language="en_US_US">
+        <Replace Tag="LOC_GAME_Men_USU_Ren_USAME_TITLE" Language="en_US">
             <Text>EDIT NAME</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_Men_USU_Ren_USAME_LABEL" Language="en_US_US">
+        <Replace Tag="LOC_GAME_Men_USU_Ren_USAME_LABEL" Language="en_US">
             <Text>Please en_USter your new name, it will also be used in-game.</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_Men_USU_Ren_USAME_BOX" Language="en_US_US">
+        <Replace Tag="LOC_GAME_Men_USU_Ren_USAME_BOX" Language="en_US">
             <Text>New Name:</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_Men_USU_Ren_USAME_BUTTON" Language="en_US_US">
+        <Replace Tag="LOC_GAME_Men_USU_Ren_USAME_BUTTON" Language="en_US">
             <Text>Confirm Name</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_EDIT_PLAYER_NAME_TT" Language="en_US_US">
+        <Replace Tag="LOC_MPH_EDIT_PLAYER_NAME_TT" Language="en_US">
             <Text>Click to change your name in this game.</Text>
         </Replace>
-        <Replace Tag="LOC_GAMEMODE_ANONYMOUS_NAME" Language="en_US_US">
+        <Replace Tag="LOC_GAMEMODE_ANONYMOUS_NAME" Language="en_US">
             <Text>Anonymous Mode</Text>
         </Replace>
-        <Replace Tag="LOC_GAMEMODE_ANONYMOUS_DESCRIPTION" Language="en_US_US">
+        <Replace Tag="LOC_GAMEMODE_ANONYMOUS_DESCRIPTION" Language="en_US">
             <Text>Players are all anonymous![NEWLINE]No more side-arrangemen_USt.</Text>
         </Replace>
-        <Replace Tag="LOC_GAMEMODE_LASTMOVE_NAME" Language="en_US_US">
+        <Replace Tag="LOC_GAMEMODE_LASTMOVE_NAME" Language="en_US">
             <Text>Last Move - First Move Mode</Text>
         </Replace>
-        <Replace Tag="LOC_GAMEMODE_LASTMOVE_DESCRIPTION" Language="en_US_US">
+        <Replace Tag="LOC_GAMEMODE_LASTMOVE_DESCRIPTION" Language="en_US">
             <Text>Infamous en_USd of turn last move first move are coming to an en_USd![NEWLINE][NEWLINE]Moving or attacking during the last 15 secs of the turn would make your unit [COLOR_Civ6Red]Unprepared[en_USDCOLOR].[NEWLINE][COLOR_Civ6Red]Unprepared[en_USDCOLOR] units have a -20[ICON_Stren_USgth] pen_USalty when_US attacking.[NEWLINE]An unit will stays [COLOR_Civ6Red]Unprepared[en_USDCOLOR] until it is attacked or after 10 secs in the following game turn. </Text>
         </Replace>
-        <Replace Tag="LOC_MPH_PHASE_BUTTON_TOOLTIP_ERROR" Language="en_US_US">
+        <Replace Tag="LOC_MPH_PHASE_BUTTON_TOOLTIP_ERROR" Language="en_US">
             <Text>The draft cannot be launched at the momen_USt. It could be due to:[NEWLINE]A player having an incorrect version of the mod or that hasn't subscribed to the mod.[NEWLINE]Host still waiting for data from other clien_USts. (Shouldn't take more than 10 secs). </Text>
         </Replace>
-        <Replace Tag="LOC_MPH_PHASE_BUTTON_TOOLTIP" Language="en_US_US">
+        <Replace Tag="LOC_MPH_PHASE_BUTTON_TOOLTIP" Language="en_US">
             <Text>Click to launch the draft.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_RESYNC_ADMIN_TEXT" language="en_US">
@@ -686,231 +686,231 @@
         <Replace Tag="LOC_GAME_Men_USU_FORCEen_USD_BUTTON" language="en_US">
             <Text>en_USd Turn</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_UI_REFRESH_TEXT" Language="en_US_US">
+        <Replace Tag="LOC_MPH_UI_REFRESH_TEXT" Language="en_US">
             <Text>RESET THE UI</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_UI_REFRESH_TOOLTIP" Language="en_US_US">
+        <Replace Tag="LOC_MPH_UI_REFRESH_TOOLTIP" Language="en_US">
             <Text>Hard reset the UI en_USvironmen_USt</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_Men_USU_UI_REFRESH_TITLE" Language="en_US_US">
+        <Replace Tag="LOC_GAME_Men_USU_UI_REFRESH_TITLE" Language="en_US">
             <Text>UI RESET</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_Men_USU_UI_REFRESH_LABEL" Language="en_US_US">
+        <Replace Tag="LOC_GAME_Men_USU_UI_REFRESH_LABEL" Language="en_US">
             <Text>Are you sure to reset the UI?</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_Men_USU_UI_REFRESH_BUTTON" Language="en_US_US">
+        <Replace Tag="LOC_GAME_Men_USU_UI_REFRESH_BUTTON" Language="en_US">
             <Text>Reset</Text>
         </Replace>
 
 
         <!--  Tournamen_USt Settings -->
-        <Replace Tag="LOC_MPH_TOURNAMen_UST_PARAMETERS_OPTIONS" Language="en_US_US">
+        <Replace Tag="LOC_MPH_TOURNAMen_UST_PARAMETERS_OPTIONS" Language="en_US">
             <Text>Tournamen_USt and Drafting Options</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DRAFT_SLOT_ORDER_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_DRAFT_SLOT_ORDER_NAME" Language="en_US">
             <Text>Draft Type</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DRAFT_TIMER_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_DRAFT_TIMER_NAME" Language="en_US">
             <Text>Draft Timer</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DRAFT_MAP_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_DRAFT_MAP_NAME" Language="en_US">
             <Text>Restricted Map Pool</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DRAFT_SLOT_ORDER_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_DRAFT_SLOT_ORDER_DESC" Language="en_US">
             <Text>Draft Type</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DRAFT_TIMER_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_DRAFT_TIMER_DESC" Language="en_US">
             <Text>Untick to disabled the timer during drafting</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DRAFT_MAP_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_DRAFT_MAP_DESC" Language="en_US">
             <Text>When_US selected the Drafting will first begin by a map selection stage with the maps included in the map pool</Text>
         </Replace>
 
-        <Replace Tag="DRAFT_NONE_NAME" Language="en_US_US">
+        <Replace Tag="DRAFT_NONE_NAME" Language="en_US">
             <Text>Random</Text>
         </Replace>
-        <Replace Tag="DRAFT_SLOT_NAME" Language="en_US_US">
+        <Replace Tag="DRAFT_SLOT_NAME" Language="en_US">
             <Text>Slot Order</Text>
         </Replace>
-        <Replace Tag="DRAFT_4V4T_NAME" Language="en_US_US">
+        <Replace Tag="DRAFT_4V4T_NAME" Language="en_US">
             <Text>Teamers 4v4 with 6 bans</Text>
         </Replace>
-        <Replace Tag="DRAFT_CWCT_NAME" Language="en_US_US">
+        <Replace Tag="DRAFT_CWCT_NAME" Language="en_US">
             <Text>Civilization World Cup</Text>
         </Replace>
 
-        <Replace Tag="DRAFT_NONE_DESC" Language="en_US_US">
+        <Replace Tag="DRAFT_NONE_DESC" Language="en_US">
             <Text>Player drafting order would be randomly selected</Text>
         </Replace>
-        <Replace Tag="DRAFT_SLOT_DESC" Language="en_US_US">
+        <Replace Tag="DRAFT_SLOT_DESC" Language="en_US">
             <Text>Player drafting order would follow the slot order</Text>
         </Replace>
-        <Replace Tag="DRAFT_4V4T_DESC" Language="en_US_US">
+        <Replace Tag="DRAFT_4V4T_DESC" Language="en_US">
             <Text>Teamer Drafting in two phases with 6 leader bans</Text>
         </Replace>
-        <Replace Tag="DRAFT_CWCT_DESC" Language="en_US_US">
+        <Replace Tag="DRAFT_CWCT_DESC" Language="en_US">
             <Text>Esport Compliant Drafting in phases: 1) 6 Bans 2) 4 Picks 3) 4 Bans 4) Remaining Picks</Text>
         </Replace>
 
 
         <!--  Trading Settings -->
-        <Replace Tag="LOC_MPH_TRADING_PARAMETERS_OPTIONS" Language="en_US_US">
+        <Replace Tag="LOC_MPH_TRADING_PARAMETERS_OPTIONS" Language="en_US">
             <Text>Trading and Diplomacy Options</Text>
         </Replace>
 
-        <Replace Tag="LOC_MPH_FRIen_USDSHIP_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_FRIen_USDSHIP_NAME" Language="en_US">
             <Text>No Frien_USdship Declaration</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_FRIen_USDSHIP_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_FRIen_USDSHIP_DESC" Language="en_US">
             <Text>Tick to remove the ability to declare a Frien_USdship with another Civilization.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_SURPRISE_WAR_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_SURPRISE_WAR_NAME" Language="en_US">
             <Text>No Surprise War</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_SURPRISE_WAR_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_SURPRISE_WAR_DESC" Language="en_US">
             <Text>When_US ticked players would have to first den_USounce or use Casus Belli to declare war.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_FAVOR_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_FAVOR_NAME" Language="en_US">
             <Text>No Favor Trading</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_GOLD_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_GOLD_NAME" Language="en_US">
             <Text>No Gold Trading</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_STRATEGICS_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_STRATEGICS_NAME" Language="en_US">
             <Text>No Strategic Resource Trading</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_LUXURIES_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_LUXURIES_NAME" Language="en_US">
             <Text>No Luxury Resource Trading</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_AGREEMen_USTS_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_AGREEMen_USTS_NAME" Language="en_US">
             <Text>No Agreemen_USts</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_CAPTIVES_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_CAPTIVES_NAME" Language="en_US">
             <Text>No Spy Trading</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_CITIES_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_CITIES_NAME" Language="en_US">
             <Text>No City Trading</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_GREATWORKS_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_GREATWORKS_NAME" Language="en_US">
             <Text>No Great Work Trading</Text>
         </Replace>
 
-        <Replace Tag="LOC_MPH_NO_TRADING_FAVOR_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_FAVOR_DESC" Language="en_US">
             <Text>Tick to remove the ability to trade Favor from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_GOLD_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_GOLD_DESC" Language="en_US">
             <Text>Tick to remove the ability to trade Gold from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_STRATEGICS_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_STRATEGICS_DESC" Language="en_US">
             <Text>Tick to remove the ability to trade Strategics from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_LUXURIES_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_LUXURIES_DESC" Language="en_US">
             <Text>Tick to remove the ability to trade Luxuries from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_AGREEMen_USTS_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_AGREEMen_USTS_DESC" Language="en_US">
             <Text>Tick to remove the ability to establish Agreemen_USts from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_CAPTIVES_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_CAPTIVES_DESC" Language="en_US">
             <Text>Tick to remove the ability to trade Captives from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_CITIES_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_CITIES_DESC" Language="en_US">
             <Text>Tick to remove the ability to trade Cities from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_GREATWORKS_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_GREATWORKS_DESC" Language="en_US">
             <Text>Tick to remove the ability to trade Great Works from the game.</Text>
         </Replace>
 
-        <Replace Tag="LOC_MPH_DIPLOMATIC_DEAL_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_DIPLOMATIC_DEAL_NAME" Language="en_US">
             <Text>No Diplomatic Deals</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DIPLOMATIC_DEAL_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_DIPLOMATIC_DEAL_DESC" Language="en_US">
             <Text>Remove the ability to initiate any Diplomatic Deals from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_MILITARY_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_MILITARY_NAME" Language="en_US">
             <Text>Military Alliance</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_MILITARY_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_MILITARY_DESC" Language="en_US">
             <Text>Untick to remove the ability to form a Military Alliance from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_CULTURAL_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_CULTURAL_NAME" Language="en_US">
             <Text>Cultural Alliance</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_CULTURAL_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_CULTURAL_DESC" Language="en_US">
             <Text>Untick to remove the ability to form a Cultural Alliance from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_ECONOMIC_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_ECONOMIC_NAME" Language="en_US">
             <Text>Economic Alliance</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_ECONOMIC_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_ECONOMIC_DESC" Language="en_US">
             <Text>Untick to remove the ability to form a Economic Alliance from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_RELIGIOUS_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_RELIGIOUS_NAME" Language="en_US">
             <Text>Religious Alliance</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_RELIGIOUS_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_RELIGIOUS_DESC" Language="en_US">
             <Text>Untick to remove the ability to form a Religious Alliance from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_RESEARCH_NAME" Language="en_US_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_RESEARCH_NAME" Language="en_US">
             <Text>Research Alliance</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_RESEARCH_DESC" Language="en_US_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_RESEARCH_DESC" Language="en_US">
             <Text>Untick to remove the ability to form a Research Alliance from the game.</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_NAME" Language="en_US_US">
+        <Replace Tag="MPH_PRESET_NAME" Language="en_US">
             <Text>Preset</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_NONE_NAME" Language="en_US_US">
+        <Replace Tag="MPH_PRESET_NONE_NAME" Language="en_US">
             <Text>None</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_CWC_NAME" Language="en_US_US">
+        <Replace Tag="MPH_PRESET_CWC_NAME" Language="en_US">
             <Text>Civilization World Cup</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_CPLFFA_NAME" Language="en_US_US">
+        <Replace Tag="MPH_PRESET_CPLFFA_NAME" Language="en_US">
             <Text>CPL FFA</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_CIVFRTEAMER_NAME" Language="en_US_US">
+        <Replace Tag="MPH_PRESET_CIVFRTEAMER_NAME" Language="en_US">
             <Text>Squadron CivFR</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_CPLSQUADRON_NAME" Language="en_US_US">
+        <Replace Tag="MPH_PRESET_CPLSQUADRON_NAME" Language="en_US">
             <Text>CPL Premier League</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_CPLSQUADRON_DESC" language="en_US_US">
+        <Replace Tag="MPH_PRESET_CPLSQUADRON_DESC" language="en_US">
             <Text>Premier League 4v4 with drafting</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_PHYPHY_NAME" Language="en_US_US">
+        <Replace Tag="MPH_PRESET_PHYPHY_NAME" Language="en_US">
             <Text>1v1 Blitz</Text>
         </Replace>
-		<Replace Tag="MPH_PRESET_NONE_DESC" Language="en_US_US">
+		<Replace Tag="MPH_PRESET_NONE_DESC" Language="en_US">
             <Text>Default Settings</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_CWC_DESC" Language="en_US_US">
+        <Replace Tag="MPH_PRESET_CWC_DESC" Language="en_US">
             <Text>Drafting and 4v4 teamers</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_CPLFFA_DESC" Language="en_US_US">
+        <Replace Tag="MPH_PRESET_CPLFFA_DESC" Language="en_US">
             <Text>CivPlayer League typical settings with abundant resources</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_CIVFRTEAMER_DESC" Language="en_US_US">
+        <Replace Tag="MPH_PRESET_CIVFRTEAMER_DESC" Language="en_US">
             <Text>CivFR typical settings for teamers</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_PHYPHY_DESC" Language="en_US_US">
+        <Replace Tag="MPH_PRESET_PHYPHY_DESC" Language="en_US">
             <Text>UwU Games but Timer not UwU</Text>
         </Replace>
-        <Replace Tag="MPH_OFFICIAL_GAME_NAME" Language="en_US_US">
+        <Replace Tag="MPH_OFFICIAL_GAME_NAME" Language="en_US">
             <Text>[COLOR_RED]Official tournamen_USt game[en_USDCOLOR]</Text>
         </Replace>
-        <Replace Tag="MPH_OFFICIAL_GAME_DESC" Language="en_US_US">
+        <Replace Tag="MPH_OFFICIAL_GAME_DESC" Language="en_US">
             <Text>If the game is part of an official tournamen_USt game, other mods can load/unload extra features.</Text>
         </Replace>
-		<Row Tag="TIMER_2VI2_NAME" Language="en_US_US">
+		<Row Tag="TIMER_2VI2_NAME" Language="en_US">
             <Text>2VI2 HOT</Text>
         </Row>
-        <Row Tag="TIMER_2VI2_DESC" Language="en_US_US">
+        <Row Tag="TIMER_2VI2_DESC" Language="en_US">
             <Text>Very fast timer that starts at 15 seconds and increases in jumps till 60 second by turn 40. Scales linearly after</Text>
         </Row>
-        <Row Tag="MPH_PRESET_2VI2_NAME" Language="en_US_US">
+        <Row Tag="MPH_PRESET_2VI2_NAME" Language="en_US">
             <Text>2VI2</Text>
         </Row>
-        <Row Tag="MPH_PRESET_2VI2_DESC" Language="en_US_US">
+        <Row Tag="MPH_PRESET_2VI2_DESC" Language="en_US">
             <Text>Dedicated Preset for how 2VI2 Invitational Cup</Text>
         </Row>
         <Row Tag="MPH_PRESET_CIVFRFFA_NAME" Language="en_US">
