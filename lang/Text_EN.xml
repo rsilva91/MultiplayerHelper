@@ -10,31 +10,31 @@
             <Text>Highlands, with more resources</Text>
         </Replace>
         <Replace Tag="LOC_MPH_TURN_IS_PROCESSED" language="en_US">
-            <Text>CURRT TURN IS BEING PROCESSED, PLEASE WAIT</Text>
+            <Text>CURRENT TURN IS BEING PROCESSED, PLEASE WAIT</Text>
         </Replace>
         <Replace Tag="LOC_MPH_MODCHECK_BUTTON_TOOLTIP" language="en_US">
-            <Text>Check the version of the mods locally installed on the clits (Support: BBS, BBG, MPH). [NEWLINE] Requires MPH to be preloaded on both Host and Clit.</Text>
+            <Text>Check the version of the mods locally installed on the clients (Support: BBS, BBG, MPH). [NEWLINE] Requires MPH to be preloaded on both Host and Client.</Text>
         </Replace>
         <Replace Tag="CPL_SYNCTURN_NAME" language="en_US">
             <Text>Turn Synchonisation</Text>
         </Replace>
         <Replace Tag="CPL_SYNCTURN_DESC" language="en_US">
-            <Text>Human players will all start and d their turn at the same time.</Text>
+            <Text>Human players will all start and end their turn at the same time.</Text>
         </Replace>
         <Replace Tag="CPL_CWC_NAME" language="en_US">
-            <Text>[COLOR_Civ6Red]Official CWC Game[DCOLOR]</Text>
+            <Text>[COLOR_Civ6Red]Official CWC Game[ENDCOLOR]</Text>
         </Replace>
         <Replace Tag="CPL_CWC_DESC" language="en_US">
-            <Text>Set the parameters for the Civ World Cup tournamt</Text>
+            <Text>Set the parameters for the Civ World Cup tournament</Text>
         </Replace>
         <Replace Tag="LOC_ABILITY_LAST_MOVED_NAME" language="en_US">
             <Text>Unprepared</Text>
         </Replace>
         <Replace Tag="LOC_ABILITY_LAST_MOVED_DESCRIPTION" language="en_US">
-            <Text>-20 [ICON_Strgth] Combat Strgth wh attacking.</Text>
+            <Text>-20 [ICON_Strength] Combat Strength when attacking.</Text>
         </Replace>
         <Replace Tag="LOC_MOD_LAST_MOVED_DESCRIPTION" language="en_US">
-            <Text>-20 [ICON_Strgth] Combat Strgth wh attacking during the first seconds of the turn.</Text>
+            <Text>-20 [ICON_Strength] Combat Strength when attacking during the first seconds of the turn.</Text>
         </Replace>
 
         <Replace Tag="LOC_ABILITY_LAST_MOVED_READY_NAME" language="en_US">
@@ -44,10 +44,10 @@
             <Text>You have recovered from your last action.</Text>
         </Replace>
         <Replace Tag="CPL_FS_NAME" language="en_US">
-            <Text>Fridship Agreemts</Text>
+            <Text>Friendship Agreements</Text>
         </Replace>
         <Replace Tag="CPL_FS_DESC" language="en_US">
-            <Text>Define the maximum number of formal alliance or fridship agreemt for each player in the game (Default = 2)</Text>
+            <Text>Define the maximum number of formal alliance or friendship agreement for each player in the game (Default = 2)</Text>
         </Replace>
         <Replace Tag="CPL_CS_NAME" language="en_US">
             <Text>Captured City-States</Text>
@@ -70,10 +70,10 @@
             <Text>Remove the ability to use map pins to reduce performance issues (Default = Off)</Text>
         </Replace>
 
-        <Replace Tag="CPL_SUDDDEATH_NAME" language="en_US">
-            <Text>Sudd Death</Text>
+        <Replace Tag="CPL_SUDDENDEATH_NAME" language="en_US">
+            <Text>Sudden Death</Text>
         </Replace>
-        <Replace Tag="CPL_SUDDDEATH_DESC" language="en_US">
+        <Replace Tag="CPL_SUDDENDEATH_DESC" language="en_US">
             <Text>The lowest scoring players are slowly eliminated one by one ! (Default = Off)</Text>
         </Replace>
 
@@ -88,13 +88,13 @@
             <Text>Last Move Debuff</Text>
         </Replace>
         <Replace Tag="CPL_LASTMOVE_OPT_DESC" language="en_US">
-            <Text>Units attacking during the last 10 secs would have a debuff at the start of next turn to prevt them from also first moving (Default = Off) </Text>
+            <Text>Units attacking during the last 10 secs would have a debuff at the start of next turn to prevent them from also first moving (Default = Off) </Text>
         </Replace>
         <Replace Tag="CPL_FREECITY_OPT_NAME" language="en_US">
             <Text>Free Cities for Irrelevancies</Text>
         </Replace>
         <Replace Tag="CPL_FREECITY_OPT_DESC" language="en_US">
-            <Text>In FFA Irrelvant players would have their cities turn to free cities, allow to break pre-existing Alliances/Friship (Default = On) </Text>
+            <Text>In FFA Irrelvant players would have their cities turn to free cities, allow to break pre-existing Alliances/Frienship (Default = On) </Text>
         </Replace>
 
 
@@ -153,7 +153,7 @@
             <Text>Allies Only</Text>
         </Replace>
         <Replace Tag="CPL_TRADING_ALLOWED_DESC" language="en_US">
-            <Text>This type of trading would be solely permitted in-game betwe allies.</Text>
+            <Text>This type of trading would be solely permitted in-game between allies.</Text>
         </Replace>
 
         <Replace Tag="LOC_SETUP_ERROR_NO_BANNED_LEADERS" language="en_US">
@@ -187,10 +187,10 @@
         <Replace Tag="BAN_FORMAT_6BANS_DESC" language="en_US">
             <Text>The Host will be able to 6 leaders</Text>
         </Replace>
-        <Replace Tag="BAN_FORMAT_TOURNAMT_NAME" language="en_US">
-            <Text>Tournamt</Text>
+        <Replace Tag="BAN_FORMAT_TOURNAMENT_NAME" language="en_US">
+            <Text>Tournament</Text>
         </Replace>
-        <Replace Tag="BAN_FORMAT_TOURNAMT_DESC" language="en_US">
+        <Replace Tag="BAN_FORMAT_TOURNAMENT_DESC" language="en_US">
             <Text>Bans and player picks would be drafted in order</Text>
         </Replace>
         <Replace Tag="BAN_FORMAT_VOTEDRAFT_NAME" language="en_US">
@@ -237,7 +237,7 @@
             <Text>Competitive</Text>
         </Replace>
         <Replace Tag="TIMER_DEFAULT_DESC" language="en_US">
-            <Text>Scales depding on the numbers of units, cities, wars, game type, evts. Ideal for tournamt. </Text>
+            <Text>Scales depending on the numbers of units, cities, wars, game type, events. Ideal for tournament. </Text>
         </Replace>
         <Replace Tag="TIMER_NONE_NAME" language="en_US">
             <Text>Off</Text>
@@ -261,7 +261,7 @@
             <Text>Moderate</Text>
         </Replace>
         <Replace Tag="TIMER_SEPHI_DESC" language="en_US">
-            <Text>Sephi's timer: Baseline 30 secs, th 1 extra second per turn</Text>
+            <Text>Sephi's timer: Baseline 30 secs, then 1 extra second per turn</Text>
         </Replace>
         <Replace Tag="TIMER_CASUAL_NAME" language="en_US">
             <Text>Casual</Text>
@@ -317,16 +317,16 @@
             <Text>Map Seed</Text>
         </Replace>
         <Replace Tag="LOC_MPH_VOTEPANEL_LABEL_REMAP_TEXT" language="en_US">
-            <Text>A vote to restart the game on a new map seed has be casted.</Text>
+            <Text>A vote to restart the game on a new map seed has been casted.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_VOTEPANEL_FEEDBACK_REMAP_DEFAULT_TEXT" language="en_US">
-            <Text>The vote would pass if a simple majority of voters are in favour. [NEWLINE] Players in [COLOR_Grey]grey[DCOLOR] cannot vote. [NEWLINE] Players that have already voted are in [COLOR_Civ6Gre]gre[DCOLOR]. </Text>
+            <Text>The vote would pass if a simple majority of voters are in favour. [NEWLINE] Players in [COLOR_Grey]grey[ENDCOLOR] cannot vote. [NEWLINE] Players that have already voted are in [COLOR_Civ6Green]green[ENDCOLOR]. </Text>
         </Replace>
         <Replace Tag="LOC_MPH_VOTEPANEL_FEEDBACK_REMAP_PASS_TEXT" language="en_US">
-            <Text>The yeas have it. The majority has spok, game will automatically restart on a new map after the host validates it. [NEWLINE]Players in [COLOR_Civ6Gre]gre[DCOLOR] voted in favour. </Text>
+            <Text>The yeas have it. The majority has spoken, game will automatically restart on a new map after the host validates it. [NEWLINE]Players in [COLOR_Civ6Green]green[ENDCOLOR] voted in favour. </Text>
         </Replace>
         <Replace Tag="LOC_MPH_VOTEPANEL_FEEDBACK_REMAP_FAIL_TEXT" language="en_US">
-            <Text>The nays have it. The majority has spok, game will continue on the currt map. [NEWLINE] Players in [COLOR_Civ6Red]red[DCOLOR] voted against. </Text>
+            <Text>The nays have it. The majority has spoken, game will continue on the current map. [NEWLINE] Players in [COLOR_Civ6Red]red[ENDCOLOR] voted against. </Text>
         </Replace>
         <Replace Tag="LOC_MPH_VOTELEFT_BUTTON_1_REMAP_TEXT" language="en_US">
             <Text>YEA</Text>
@@ -344,7 +344,7 @@
             <Text>Cancel</Text>
         </Replace>
         <Replace Tag="LOC_MPH_REMAPPANEL_LABEL_TEXT" language="en_US">
-            <Text>ter custom seeds or leave blank to restart the game on a new map. Game should be [COLOR_Civ6Red]unpaused[DCOLOR] at this stage to allow for the data to be properly st. Don't worry the game will th pause automatically to avoid changing the state as the players will re-sync. </Text>
+            <Text>Enter custom seeds or leave blank to restart the game on a new map. Game should be [COLOR_Civ6Red]unpaused[ENDCOLOR] at this stage to allow for the data to be properly sent. Don't worry the game will then pause automatically to avoid changing the state as the players will re-sync. </Text>
         </Replace>
         <Replace Tag="LOC_MPH_REMAP_VOTE_TEXT" language="en_US">
             <Text>REMAP VOTE</Text>
@@ -365,25 +365,25 @@
             <Text>Network Manager</Text>
         </Replace>
         <Replace Tag="LOC_MPH_DROP_LABEL_TEXT" language="en_US">
-            <Text>The following player(s) disconnected from the game. Game configuration is being froz.</Text>
+            <Text>The following player(s) disconnected from the game. Game configuration is being frozen.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_DROP_HOST_BUTTON_TEXT" language="en_US">
             <Text>Give Control to AI</Text>
         </Replace>
         <Replace Tag="LOC_MPH_DROP_HOST_WARNING_TEXT" language="en_US">
-            <Text>[COLOR_Civ6Red]If you choose to resume the game, the dropped player would be affected by the AI and his/her units might be moved before he/she re-connect to the game.[DCOLOR] </Text>
+            <Text>[COLOR_Civ6Red]If you choose to resume the game, the dropped player would be affected by the AI and his/her units might be moved before he/she re-connect to the game.[ENDCOLOR] </Text>
         </Replace>
         <Replace Tag="LOC_MPH_DROP_NORMAL_BUTTON_TEXT" language="en_US">
             <Text>Understood...</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_HELPER_BUTTON_TOOLTIP" language="en_US">
+        <Replace Tag="LOC_GAME_MENU_HELPER_BUTTON_TOOLTIP" language="en_US">
             <Text>Access custom MPH functions such as Remap vote and more.</Text>
         </Replace>
         <Replace Tag="LOC_VICTORY_CONCEDE_NAME" language="en_US">
             <Text>VICTORY</Text>
         </Replace>
         <Replace Tag="LOC_VICTORY_CONCEDE_TEXT" language="en_US">
-            <Text>All your emies have capitulated!</Text>
+            <Text>All your enemies have capitulated!</Text>
         </Replace>
 
 
@@ -391,16 +391,16 @@
             <Text>CAPITULATION</Text>
         </Replace>
         <Replace Tag="LOC_MPH_DRAFT_RANDOM_TOOLTIP" language="en_US">
-            <Text>FFA: First Banning/Picking player picked at Random, th pursue in slot order. [NEWLINE]Teamers: First Banning/Picking player picked at Random, th alternate betwe each teams. </Text>
+            <Text>FFA: First Banning/Picking player picked at Random, then pursue in slot order. [NEWLINE]Teamers: First Banning/Picking player picked at Random, then alternate between each teams. </Text>
         </Replace>
         <Replace Tag="LOC_MPH_DRAFT_SLOT_TOOLTIP" language="en_US">
-            <Text>FFA: Banning/Picking are in the slot order ignoring Observers. Reset at each phase. [NEWLINE]Teamers: Banning Map picked first team in slot and th alternate. Banning/Picking th in slot orders. </Text>
+            <Text>FFA: Banning/Picking are in the slot order ignoring Observers. Reset at each phase. [NEWLINE]Teamers: Banning Map picked first team in slot and then alternate. Banning/Picking then in slot orders. </Text>
         </Replace>
         <Replace Tag="LOC_MPH_DRAFT_CWC_TOOLTIP" language="en_US">
             <Text>[NEWLINE]Legacy CWC Format: Banning Map/Leaders start with first in slot and Alternate in A/B/A/B/A/B format. [NEWLINE] Picking is done following the slot order (Should be A/B/B/A/A/B/A/B for 4v4).</Text>
         </Replace>
         <Replace Tag="LOC_MPH_DRAFT_CWC_NEW_TOOLTIP" language="en_US">
-            <Text>[NEWLINE]Official CWC Format: Banning Leaders start with first in slot and Alternate in A/B/A/B/A/B format th B/A/B/A [NEWLINE] Picking is done following the slot order (Should be A/B/B/A th B/A/A/B for 4v4).</Text>
+            <Text>[NEWLINE]Official CWC Format: Banning Leaders start with first in slot and Alternate in A/B/A/B/A/B format then B/A/B/A [NEWLINE] Picking is done following the slot order (Should be A/B/B/A then B/A/A/B for 4v4).</Text>
         </Replace>
 
         <Replace Tag="LOC_MPH_SWAP_DISABLED_TITLE" language="en_US">
@@ -430,14 +430,14 @@
         <Replace Tag="LOC_MPH_KICK_DISABLED_TEXT" language="en_US">
             <Text>You cannot kick a player at this stage of the draft.[NEWLINE]Change the type of draft or reset the draft to be able to kick this player.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_TOURNAMT_PHASE_0_TEXT" language="en_US">
-            <Text>Tournamt Draft: Please select your Teams / Slots / Observers</Text>
+        <Replace Tag="LOC_MPH_TOURNAMENT_PHASE_0_TEXT" language="en_US">
+            <Text>Tournament Draft: Please select your Teams / Slots / Observers</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_TOURNAMT_PHASE_0_HINT_TEXT" language="en_US">
+        <Replace Tag="LOC_MPH_TOURNAMENT_PHASE_0_HINT_TEXT" language="en_US">
             <Text>Steps: Ban Maps - Ban 6 Leaders - Pick Leaders 1 by 1 - Start Game/Change Slots</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_TOURNAMT_PHASE_0_HOST_HINT_TEXT" language="en_US">
-            <Text>Select your drafting option in Game Setup, th press Launch to initiate the draft.[NEWLINE] You can press Reset at any time to reinitialize the draft and Skip to skip a step.[NEWLINE] This mod requires everyone to have subscribed on the Steam workshop to use the advanced Setup features. Downloading from the Host isn't sufficit. </Text>
+        <Replace Tag="LOC_MPH_TOURNAMENT_PHASE_0_HOST_HINT_TEXT" language="en_US">
+            <Text>Select your drafting option in Game Setup, then press Launch to initiate the draft.[NEWLINE] You can press Reset at any time to reinitialize the draft and Skip to skip a step.[NEWLINE] This mod requires everyone to have subscribed on the Steam workshop to use the advanced Setup features. Downloading from the Host isn't sufficient. </Text>
         </Replace>
         <Replace Tag="LOC_MPH_VOTING_PHASE_0_TEXT" language="en_US">
             <Text>Vote Draft: Please select your Teams / Slots / Observers</Text>
@@ -446,7 +446,7 @@
             <Text>Steps: Vote Map Settings - Vote Ban 6 Leaders - Pick Leaders 1 by 1 - Start Game/Change Slots</Text>
         </Replace>
         <Replace Tag="LOC_MPH_VOTING_PHASE_0_HOST_HINT_TEXT" language="en_US">
-            <Text>Select your drafting option in Game Setup, th press Launch to initiate the draft.[NEWLINE] You can press Reset at any time to reinitialize the draft and Skip to skip a step.[NEWLINE] This mod requires every player to have subscribed on the Steam workshop. Downloading from the Host isn't sufficit.</Text>
+            <Text>Select your drafting option in Game Setup, then press Launch to initiate the draft.[NEWLINE] You can press Reset at any time to reinitialize the draft and Skip to skip a step.[NEWLINE] This mod requires every player to have subscribed on the Steam workshop. Downloading from the Host isn't sufficient.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_READY_WAITING_HOST_TEXT" language="en_US">
             <Text>WAITING FOR THE HOST</Text>
@@ -454,11 +454,11 @@
         <Replace Tag="LOC_MPH_READY_LAUNCH_HOST_TEXT" language="en_US">
             <Text>PRESS LAUNCH TO START THE DRAFT</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_TOURNAMT_PHASE_0_PHASE_BUTTON_TEXT" language="en_US">
-            <Text>[COLOR_Civ6Gre]LAUNCH[DCOLOR]</Text>
+        <Replace Tag="LOC_MPH_TOURNAMENT_PHASE_0_PHASE_BUTTON_TEXT" language="en_US">
+            <Text>[COLOR_Civ6Green]LAUNCH[ENDCOLOR]</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_TOURNAMT_PHASE_0_PHASE_BUTTON_NOT_READY_TEXT" language="en_US">
-            <Text>[COLOR_Civ6Red]LAUNCH[DCOLOR]</Text>
+        <Replace Tag="LOC_MPH_TOURNAMENT_PHASE_0_PHASE_BUTTON_NOT_READY_TEXT" language="en_US">
+            <Text>[COLOR_Civ6Red]LAUNCH[ENDCOLOR]</Text>
         </Replace>
         <Replace Tag="LOC_MPH_VOTING_PHASE_0_PHASE_BUTTON_TEXT" language="en_US">
             <Text>LAUNCH</Text>
@@ -466,17 +466,17 @@
         <Replace Tag="LOC_MPH_VOTING_PHASE_1_PHASE_BUTTON_TEXT" language="en_US">
             <Text>SKIP</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_TOURNAMT_PHASE_1_PHASE_BUTTON_TEXT" language="en_US">
+        <Replace Tag="LOC_MPH_TOURNAMENT_PHASE_1_PHASE_BUTTON_TEXT" language="en_US">
             <Text>SKIP</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_TOURNAMT_PHASE_2_PHASE_BUTTON_TEXT" language="en_US">
+        <Replace Tag="LOC_MPH_TOURNAMENT_PHASE_2_PHASE_BUTTON_TEXT" language="en_US">
             <Text>SKIP</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_TOURNAMT_PHASE_3_PHASE_BUTTON_TEXT" language="en_US">
-            <Text>[COLOR_Civ6Gre]UNLOCK[DCOLOR]</Text>
+        <Replace Tag="LOC_MPH_TOURNAMENT_PHASE_3_PHASE_BUTTON_TEXT" language="en_US">
+            <Text>[COLOR_Civ6Green]UNLOCK[ENDCOLOR]</Text>
         </Replace>
         <Replace Tag="LOC_MPH_VOTE_BUTTON" language="en_US">
-            <Text>Sd My Votes</Text>
+            <Text>Send My Votes</Text>
         </Replace>
         <Replace Tag="LOC_MPH_VOTING_PHASE_11_TEXT" language="en_US">
             <Text>Map Settings Selection</Text>
@@ -488,48 +488,48 @@
             <Text>Leader Bans Phase</Text>
         </Replace>
         <Replace Tag="LOC_MPH_VOTING_PHASE_12_HINT_TEXT" language="en_US">
-            <Text>Each players has be granted with 3 bans to exclude a leader from the game.[NEWLINE] The 6 leaders receiving the most bans would be removed from the picking phase.</Text>
+            <Text>Each players has been granted with 3 bans to exclude a leader from the game.[NEWLINE] The 6 leaders receiving the most bans would be removed from the picking phase.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_READY_WAITING_MAP_VOTE_TEXT" language="en_US">
-            <Text>[COLOR_Civ6Red] VALIDATE YOUR MAP SETTINGS [DCOLOR]</Text>
+            <Text>[COLOR_Civ6Red] VALIDATE YOUR MAP SETTINGS [ENDCOLOR]</Text>
         </Replace>
         <Replace Tag="LOC_MPH_READY_WAITING_MAP_BAN_TEXT" language="en_US">
-            <Text>[COLOR_Civ6Red] VALIDATE YOUR MAP BAN [DCOLOR]</Text>
+            <Text>[COLOR_Civ6Red] VALIDATE YOUR MAP BAN [ENDCOLOR]</Text>
         </Replace>
         <Replace Tag="LOC_MPH_READY_WAITING_LEADER_BAN_TEXT" language="en_US">
-            <Text>[COLOR_Civ6Red] VALIDATE YOUR LEADER BAN [DCOLOR]</Text>
+            <Text>[COLOR_Civ6Red] VALIDATE YOUR LEADER BAN [ENDCOLOR]</Text>
         </Replace>
         <Replace Tag="LOC_MPH_READY_WAITING_LEADER_PICK_TEXT" language="en_US">
-            <Text>[COLOR_Civ6Red] PLEASE VALIDATE YOUR PICK [DCOLOR]</Text>
+            <Text>[COLOR_Civ6Red] PLEASE VALIDATE YOUR PICK [ENDCOLOR]</Text>
         </Replace>
         <Replace Tag="LOC_MPH_READY_WAITING_MAP_BAN_FFA_TEXT" language="en_US">
-            <Text>[COLOR_Civ6Green] WAIT FOR PLAYER TO COMPLETE A MAP BAN[DCOLOR]</Text>
+            <Text>[COLOR_Civ6Green] WAIT FOR PLAYER TO COMPLETE A MAP BAN[ENDCOLOR]</Text>
         </Replace>
         <Replace Tag="LOC_MPH_READY_WAITING_LEADER_BAN_FFA_TEXT" language="en_US">
-            <Text>[COLOR_Civ6Gre] WAIT FOR PLAYER TO COMPLETE A LEADER BAN[DCOLOR]</Text>
+            <Text>[COLOR_Civ6Green] WAIT FOR PLAYER TO COMPLETE A LEADER BAN[ENDCOLOR]</Text>
         </Replace>
         <Replace Tag="LOC_MPH_READY_WAITING_LEADER_PICK_FFA_TEXT" language="en_US">
-            <Text>[COLOR_Civ6Gre] WAIT FOR PLAYER TO PICK A LEADER [DCOLOR]</Text>
+            <Text>[COLOR_Civ6Green] WAIT FOR PLAYER TO PICK A LEADER [ENDCOLOR]</Text>
         </Replace>
         <Replace Tag="LOC_MPH_READY_THANKS_TEXT" language="en_US">
             <Text>THANKS</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_TOURNAMT_PHASE_7_TEAM_TEXT" language="en_US">
+        <Replace Tag="LOC_MPH_TOURNAMENT_PHASE_7_TEAM_TEXT" language="en_US">
             <Text>Teamer: Map Bans Phase</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_TOURNAMT_PHASE_7_FFA_TEXT" language="en_US">
+        <Replace Tag="LOC_MPH_TOURNAMENT_PHASE_7_FFA_TEXT" language="en_US">
             <Text>FFA: Map Bans Phase</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_TOURNAMT_PHASE_7_TEAM_RAND_HINT_TEXT" language="en_US">
+        <Replace Tag="LOC_MPH_TOURNAMENT_PHASE_7_TEAM_RAND_HINT_TEXT" language="en_US">
             <Text>Teamer: The first player of each teams will ban a map every round until only one map remains in the map pool.[NEWLINE] The Team banning first is randomly selected.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_TOURNAMT_PHASE_7_TEAM_SLOT_HINT_TEXT" language="en_US">
+        <Replace Tag="LOC_MPH_TOURNAMENT_PHASE_7_TEAM_SLOT_HINT_TEXT" language="en_US">
             <Text>Teamer: The first player of each teams will ban a map every round until only one map remains in the map pool.[NEWLINE] The Team banning first is the first in slot.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_TOURNAMT_PHASE_7_FFA_RAND_HINT_TEXT" language="en_US">
+        <Replace Tag="LOC_MPH_TOURNAMENT_PHASE_7_FFA_RAND_HINT_TEXT" language="en_US">
             <Text>FFA: A player will ban a map every round until only one map remains in the map pool.[NEWLINE] The first player banning first is randomly selected.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_TOURNAMT_PHASE_7_FFA_SLOT_HINT_TEXT" language="en_US">
+        <Replace Tag="LOC_MPH_TOURNAMENT_PHASE_7_FFA_SLOT_HINT_TEXT" language="en_US">
             <Text>FFA: A player will ban a map every round round until only one map remains in the map pool.[NEWLINE] The first in slot starts banning.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_GAME_OPTIONS" language="en_US">
@@ -542,13 +542,13 @@
             <Text>Anonymous Game</Text>
         </Replace>
         <Replace Tag="CPL_ANONYMOUS_DESC" language="en_US">
-            <Text>[WIP]Players' names would not be displayed to provide an anonymous experice in the lobby and during the game.</Text>
+            <Text>[WIP]Players' names would not be displayed to provide an anonymous experience in the lobby and during the game.</Text>
         </Replace>
         <Replace Tag="CPL_NO_PM_NAME" language="en_US">
             <Text>No Private Messages</Text>
         </Replace>
         <Replace Tag="CPL_NO_PM_DESC" language="en_US">
-            <Text>[WIP]Remove the ability to sd private messages through the ingame chat.</Text>
+            <Text>[WIP]Remove the ability to send private messages through the ingame chat.</Text>
         </Replace>
         <Replace Tag="CPL_RESTRICTED_DRAFT_NAME" language="en_US">
             <Text>Limited Drafting Leader Pool</Text>
@@ -581,77 +581,77 @@
             <Text>(Host Only) [NEWLINE]Launch: Start the draft [NEWLINE]Skip: Proceed to the next step [NEWLINE]Unlock: Allows players to swap slots before the game begins </Text>
         </Replace>
 
-        <Replace Tag="LOC_GAMESPEED_FAST_NAME" language="en_US">
+        <Replace Tag="LOC_GAMESPEED_FAST_NAME" Language="en_US">
             <Text>Online+</Text>
         </Replace>
-        <Replace Tag="LOC_GAMESPEED_FAST_HELP" language="en_US">
+        <Replace Tag="LOC_GAMESPEED_FAST_HELP" Language="en_US">
             <Text>Slightly faster than Online speed to allow playing in Standard Age / Standard Resources</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_RETIME_TITLE" language="en_US">
+        <Replace Tag="LOC_GAME_MENU_RETIME_TITLE" Language="en_US">
             <Text>CHANGE DEATH TIMER</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_RETIME_LABEL" language="en_US">
-            <Text>Please ter how many seconds before the next player get eliminated? (e.g. 1200 = 20 mins)</Text>
+        <Replace Tag="LOC_GAME_MENU_RETIME_LABEL" Language="en_US">
+            <Text>Please enter how many seconds before the next player get eliminated? (e.g. 1200 = 20 mins)</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_RETIME_BOX" language="en_US">
+        <Replace Tag="LOC_GAME_MENU_RETIME_BOX" Language="en_US">
             <Text>Remaining seconds:</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_RETIME_BUTTON" language="en_US">
+        <Replace Tag="LOC_GAME_MENU_RETIME_BUTTON" Language="en_US">
             <Text>Confirm</Text>
         </Replace>
-        <Replace Tag="LOC_SUDD_DEATH_TOP_BOX" language="en_US">
-            <Text>[ICON_TURN]Sudd Death:</Text>
+        <Replace Tag="LOC_SUDDEN_DEATH_TOP_BOX" Language="en_US">
+            <Text>[ICON_TURN]Sudden Death:</Text>
         </Replace>
-        <Replace Tag="LOC_GAMEMODE_SUDD_DEATH_NAME" language="en_US">
-            <Text>Sudd Death Mode</Text>
+        <Replace Tag="LOC_GAMEMODE_SUDDEN_DEATH_NAME" Language="en_US">
+            <Text>Sudden Death Mode</Text>
         </Replace>
-        <Replace Tag="LOC_GAMEMODE_SUDD_DEATH_DESCRIPTION" language="en_US">
-            <Text>Players are gradually eliminated based on their score as the clock is inexorably ticking...Standing the test of time has just tak a whole new meaning! </Text>
+        <Replace Tag="LOC_GAMEMODE_SUDDEN_DEATH_DESCRIPTION" Language="en_US">
+            <Text>Players are gradually eliminated based on their score as the clock is inexorably ticking...Standing the test of time has just taken a whole new meaning! </Text>
         </Replace>
-        <Replace Tag="LOC_MPH_RETIME_ADMIN_TEXT" language="en_US">
-            <Text>SUDD DEATH TIMER</Text>
+        <Replace Tag="LOC_MPH_RETIME_ADMIN_TEXT" Language="en_US">
+            <Text>SUDDEN DEATH TIMER</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_RETIME_ADMIN_TOOLTIP" language="en_US">
+        <Replace Tag="LOC_MPH_RETIME_ADMIN_TOOLTIP" Language="en_US">
             <Text>Adjust the remaining time before a player gets eliminated.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DRAFT_TIMER_TOOLTIP" language="en_US">
-            <Text>Each phase of the tournamt draft would have a timer:[NEWLINE]30 secs for banning a map[NEWLINE]60 secs for banning a leader[NEWLINE]90 secs for picking a leader[NEWLINE]Wh the timer expires, the player would loss its ban or forced to play as a random civ.</Text>
+        <Replace Tag="LOC_MPH_DRAFT_TIMER_TOOLTIP" Language="en_US">
+            <Text>Each phase of the tournament draft would have a timer:[NEWLINE]30 secs for banning a map[NEWLINE]60 secs for banning a leader[NEWLINE]90 secs for picking a leader[NEWLINE]When the timer expires, the player would loss its ban or forced to play as a random civ.</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_RAME_TITLE" language="en_US">
+        <Replace Tag="LOC_GAME_MENU_RENAME_TITLE" Language="en_US">
             <Text>EDIT NAME</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_RAME_LABEL" language="en_US">
-            <Text>Please ter your new name, it will also be used in-game.</Text>
+        <Replace Tag="LOC_GAME_MENU_RENAME_LABEL" Language="en_US">
+            <Text>Please enter your new name, it will also be used in-game.</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_RAME_BOX" language="en_US">
+        <Replace Tag="LOC_GAME_MENU_RENAME_BOX" Language="en_US">
             <Text>New Name:</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_RAME_BUTTON" language="en_US">
+        <Replace Tag="LOC_GAME_MENU_RENAME_BUTTON" Language="en_US">
             <Text>Confirm Name</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_EDIT_PLAYER_NAME_TT" language="en_US">
+        <Replace Tag="LOC_MPH_EDIT_PLAYER_NAME_TT" Language="en_US">
             <Text>Click to change your name in this game.</Text>
         </Replace>
-        <Replace Tag="LOC_GAMEMODE_ANONYMOUS_NAME" language="en_US">
+        <Replace Tag="LOC_GAMEMODE_ANONYMOUS_NAME" Language="en_US">
             <Text>Anonymous Mode</Text>
         </Replace>
-        <Replace Tag="LOC_GAMEMODE_ANONYMOUS_DESCRIPTION" language="en_US">
-            <Text>Players are all anonymous![NEWLINE]No more side-arrangemt.</Text>
+        <Replace Tag="LOC_GAMEMODE_ANONYMOUS_DESCRIPTION" Language="en_US">
+            <Text>Players are all anonymous![NEWLINE]No more side-arrangement.</Text>
         </Replace>
-        <Replace Tag="LOC_GAMEMODE_LASTMOVE_NAME" language="en_US">
+        <Replace Tag="LOC_GAMEMODE_LASTMOVE_NAME" Language="en_US">
             <Text>Last Move - First Move Mode</Text>
         </Replace>
-        <Replace Tag="LOC_GAMEMODE_LASTMOVE_DESCRIPTION" language="en_US">
-            <Text>Infamous d of turn last move first move are coming to an d![NEWLINE][NEWLINE]Moving or attacking during the last 15 secs of the turn would make your unit [COLOR_Civ6Red]Unprepared[DCOLOR].[NEWLINE][COLOR_Civ6Red]Unprepared[DCOLOR] units have a -20[ICON_Strgth] palty wh attacking.[NEWLINE]An unit will stays [COLOR_Civ6Red]Unprepared[DCOLOR] until it is attacked or after 10 secs in the following game turn. </Text>
+        <Replace Tag="LOC_GAMEMODE_LASTMOVE_DESCRIPTION" Language="en_US">
+            <Text>Infamous end of turn last move first move are coming to an end![NEWLINE][NEWLINE]Moving or attacking during the last 15 secs of the turn would make your unit [COLOR_Civ6Red]Unprepared[ENDCOLOR].[NEWLINE][COLOR_Civ6Red]Unprepared[ENDCOLOR] units have a -20[ICON_Strength] penalty when attacking.[NEWLINE]An unit will stays [COLOR_Civ6Red]Unprepared[ENDCOLOR] until it is attacked or after 10 secs in the following game turn. </Text>
         </Replace>
-        <Replace Tag="LOC_MPH_PHASE_BUTTON_TOOLTIP_ERROR" language="en_US">
-            <Text>The draft cannot be launched at the momt. It could be due to:[NEWLINE]A player having an incorrect version of the mod or that hasn't subscribed to the mod.[NEWLINE]Host still waiting for data from other clits. (Shouldn't take more than 10 secs). </Text>
+        <Replace Tag="LOC_MPH_PHASE_BUTTON_TOOLTIP_ERROR" Language="en_US">
+            <Text>The draft cannot be launched at the moment. It could be due to:[NEWLINE]A player having an incorrect version of the mod or that hasn't subscribed to the mod.[NEWLINE]Host still waiting for data from other clients. (Shouldn't take more than 10 secs). </Text>
         </Replace>
-        <Replace Tag="LOC_MPH_PHASE_BUTTON_TOOLTIP" language="en_US">
+        <Replace Tag="LOC_MPH_PHASE_BUTTON_TOOLTIP" Language="en_US">
             <Text>Click to launch the draft.</Text>
         </Replace>
         <Replace Tag="LOC_MPH_RESYNC_ADMIN_TEXT" language="en_US">
-            <Text>GERAL RESYNC</Text>
+            <Text>GENERAL RESYNC</Text>
         </Replace>
         <Replace Tag="LOC_MPH_RESYNC_ADMIN_TOOLTIP" language="en_US">
             <Text>Triggers an automatic resynchronisation from all players to the host. Host should not unpause during this process.</Text>
@@ -662,261 +662,261 @@
         <Replace Tag="LOC_MPH_PAUSE_COUNDOWN_LABEL_TEXT" language="en_US">
             <Text>Game is about to resume!</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_FORCED_ADMIN_TEXT" language="en_US">
-            <Text>FORCE D-TURN</Text>
+        <Replace Tag="LOC_MPH_FORCEEND_ADMIN_TEXT" language="en_US">
+            <Text>FORCE END-TURN</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_FORCED_ADMIN_TOOLTIP" language="en_US">
-            <Text>Forces all the players to d their turn.</Text>
+        <Replace Tag="LOC_MPH_FORCEEND_ADMIN_TOOLTIP" language="en_US">
+            <Text>Forces all the players to end their turn.</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_RESYNC_TITLE" language="en_US">
-            <Text>GERAL RESYNC REQUEST</Text>
+        <Replace Tag="LOC_GAME_MENU_RESYNC_TITLE" language="en_US">
+            <Text>GENERAL RESYNC REQUEST</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_RESYNC_LABEL" language="en_US">
+        <Replace Tag="LOC_GAME_MENU_RESYNC_LABEL" language="en_US">
             <Text>All players would be re-synchronized to the Host. Are you sure?</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_RESYNC_BUTTON" language="en_US">
+        <Replace Tag="LOC_GAME_MENU_RESYNC_BUTTON" language="en_US">
             <Text>Resync</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_FORCED_TITLE" language="en_US">
-            <Text>FORCE D OF TURN</Text>
+        <Replace Tag="LOC_GAME_MENU_FORCEEND_TITLE" language="en_US">
+            <Text>FORCE END OF TURN</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_FORCED_LABEL" language="en_US">
-            <Text>This will d the turn for all players. Are you sure?</Text>
+        <Replace Tag="LOC_GAME_MENU_FORCEEND_LABEL" language="en_US">
+            <Text>This will end the turn for all players. Are you sure?</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_FORCED_BUTTON" language="en_US">
-            <Text>d Turn</Text>
+        <Replace Tag="LOC_GAME_MENU_FORCEEND_BUTTON" language="en_US">
+            <Text>End Turn</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_UI_REFRESH_TEXT" language="en_US">
+        <Replace Tag="LOC_MPH_UI_REFRESH_TEXT" Language="en_US">
             <Text>RESET THE UI</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_UI_REFRESH_TOOLTIP" language="en_US">
-            <Text>Hard reset the UI vironmt</Text>
+        <Replace Tag="LOC_MPH_UI_REFRESH_TOOLTIP" Language="en_US">
+            <Text>Hard reset the UI environment</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_UI_REFRESH_TITLE" language="en_US">
+        <Replace Tag="LOC_GAME_MENU_UI_REFRESH_TITLE" Language="en_US">
             <Text>UI RESET</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_UI_REFRESH_LABEL" language="en_US">
+        <Replace Tag="LOC_GAME_MENU_UI_REFRESH_LABEL" Language="en_US">
             <Text>Are you sure to reset the UI?</Text>
         </Replace>
-        <Replace Tag="LOC_GAME_MU_UI_REFRESH_BUTTON" language="en_US">
+        <Replace Tag="LOC_GAME_MENU_UI_REFRESH_BUTTON" Language="en_US">
             <Text>Reset</Text>
         </Replace>
 
 
-        <!--  Tournamt Settings -->
-        <Replace Tag="LOC_MPH_TOURNAMT_PARAMETERS_OPTIONS" language="en_US">
-            <Text>Tournamt and Drafting Options</Text>
+        <!--  Tournament Settings -->
+        <Replace Tag="LOC_MPH_TOURNAMENT_PARAMETERS_OPTIONS" Language="en_US">
+            <Text>Tournament and Drafting Options</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DRAFT_SLOT_ORDER_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_DRAFT_SLOT_ORDER_NAME" Language="en_US">
             <Text>Draft Type</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DRAFT_TIMER_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_DRAFT_TIMER_NAME" Language="en_US">
             <Text>Draft Timer</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DRAFT_MAP_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_DRAFT_MAP_NAME" Language="en_US">
             <Text>Restricted Map Pool</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DRAFT_SLOT_ORDER_DESC" language="en_US">
+        <Replace Tag="LOC_MPH_DRAFT_SLOT_ORDER_DESC" Language="en_US">
             <Text>Draft Type</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DRAFT_TIMER_DESC" language="en_US">
+        <Replace Tag="LOC_MPH_DRAFT_TIMER_DESC" Language="en_US">
             <Text>Untick to disabled the timer during drafting</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DRAFT_MAP_DESC" language="en_US">
-            <Text>Wh selected the Drafting will first begin by a map selection stage with the maps included in the map pool</Text>
+        <Replace Tag="LOC_MPH_DRAFT_MAP_DESC" Language="en_US">
+            <Text>When selected the Drafting will first begin by a map selection stage with the maps included in the map pool</Text>
         </Replace>
 
-        <Replace Tag="DRAFT_NONE_NAME" language="en_US">
+        <Replace Tag="DRAFT_NONE_NAME" Language="en_US">
             <Text>Random</Text>
         </Replace>
-        <Replace Tag="DRAFT_SLOT_NAME" language="en_US">
+        <Replace Tag="DRAFT_SLOT_NAME" Language="en_US">
             <Text>Slot Order</Text>
         </Replace>
-        <Replace Tag="DRAFT_4V4T_NAME" language="en_US">
+        <Replace Tag="DRAFT_4V4T_NAME" Language="en_US">
             <Text>Teamers 4v4 with 6 bans</Text>
         </Replace>
-        <Replace Tag="DRAFT_CWCT_NAME" language="en_US">
+        <Replace Tag="DRAFT_CWCT_NAME" Language="en_US">
             <Text>Civilization World Cup</Text>
         </Replace>
 
-        <Replace Tag="DRAFT_NONE_DESC" language="en_US">
+        <Replace Tag="DRAFT_NONE_DESC" Language="en_US">
             <Text>Player drafting order would be randomly selected</Text>
         </Replace>
-        <Replace Tag="DRAFT_SLOT_DESC" language="en_US">
+        <Replace Tag="DRAFT_SLOT_DESC" Language="en_US">
             <Text>Player drafting order would follow the slot order</Text>
         </Replace>
-        <Replace Tag="DRAFT_4V4T_DESC" language="en_US">
+        <Replace Tag="DRAFT_4V4T_DESC" Language="en_US">
             <Text>Teamer Drafting in two phases with 6 leader bans</Text>
         </Replace>
-        <Replace Tag="DRAFT_CWCT_DESC" language="en_US">
+        <Replace Tag="DRAFT_CWCT_DESC" Language="en_US">
             <Text>Esport Compliant Drafting in phases: 1) 6 Bans 2) 4 Picks 3) 4 Bans 4) Remaining Picks</Text>
         </Replace>
 
 
         <!--  Trading Settings -->
-        <Replace Tag="LOC_MPH_TRADING_PARAMETERS_OPTIONS" language="en_US">
+        <Replace Tag="LOC_MPH_TRADING_PARAMETERS_OPTIONS" Language="en_US">
             <Text>Trading and Diplomacy Options</Text>
         </Replace>
 
-        <Replace Tag="LOC_MPH_FRIDSHIP_NAME" language="en_US">
-            <Text>No Fridship Declaration</Text>
+        <Replace Tag="LOC_MPH_FRIENDSHIP_NAME" Language="en_US">
+            <Text>No Friendship Declaration</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_FRIDSHIP_DESC" language="en_US">
-            <Text>Tick to remove the ability to declare a Fridship with another Civilization.</Text>
+        <Replace Tag="LOC_MPH_FRIENDSHIP_DESC" Language="en_US">
+            <Text>Tick to remove the ability to declare a Friendship with another Civilization.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_SURPRISE_WAR_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_SURPRISE_WAR_NAME" Language="en_US">
             <Text>No Surprise War</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_SURPRISE_WAR_DESC" language="en_US">
-            <Text>Wh ticked players would have to first dounce or use Casus Belli to declare war.</Text>
+        <Replace Tag="LOC_MPH_SURPRISE_WAR_DESC" Language="en_US">
+            <Text>When ticked players would have to first denounce or use Casus Belli to declare war.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_FAVOR_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_FAVOR_NAME" Language="en_US">
             <Text>No Favor Trading</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_GOLD_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_GOLD_NAME" Language="en_US">
             <Text>No Gold Trading</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_STRATEGICS_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_STRATEGICS_NAME" Language="en_US">
             <Text>No Strategic Resource Trading</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_LUXURIES_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_LUXURIES_NAME" Language="en_US">
             <Text>No Luxury Resource Trading</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_AGREEMTS_NAME" language="en_US">
-            <Text>No Agreemts</Text>
+        <Replace Tag="LOC_MPH_NO_TRADING_AGREEMENTS_NAME" Language="en_US">
+            <Text>No Agreements</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_CAPTIVES_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_CAPTIVES_NAME" Language="en_US">
             <Text>No Spy Trading</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_CITIES_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_CITIES_NAME" Language="en_US">
             <Text>No City Trading</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_GREATWORKS_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_GREATWORKS_NAME" Language="en_US">
             <Text>No Great Work Trading</Text>
         </Replace>
 
-        <Replace Tag="LOC_MPH_NO_TRADING_FAVOR_DESC" language="en_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_FAVOR_DESC" Language="en_US">
             <Text>Tick to remove the ability to trade Favor from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_GOLD_DESC" language="en_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_GOLD_DESC" Language="en_US">
             <Text>Tick to remove the ability to trade Gold from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_STRATEGICS_DESC" language="en_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_STRATEGICS_DESC" Language="en_US">
             <Text>Tick to remove the ability to trade Strategics from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_LUXURIES_DESC" language="en_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_LUXURIES_DESC" Language="en_US">
             <Text>Tick to remove the ability to trade Luxuries from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_AGREEMTS_DESC" language="en_US">
-            <Text>Tick to remove the ability to establish Agreemts from the game.</Text>
+        <Replace Tag="LOC_MPH_NO_TRADING_AGREEMENTS_DESC" Language="en_US">
+            <Text>Tick to remove the ability to establish Agreements from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_CAPTIVES_DESC" language="en_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_CAPTIVES_DESC" Language="en_US">
             <Text>Tick to remove the ability to trade Captives from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_CITIES_DESC" language="en_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_CITIES_DESC" Language="en_US">
             <Text>Tick to remove the ability to trade Cities from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_NO_TRADING_GREATWORKS_DESC" language="en_US">
+        <Replace Tag="LOC_MPH_NO_TRADING_GREATWORKS_DESC" Language="en_US">
             <Text>Tick to remove the ability to trade Great Works from the game.</Text>
         </Replace>
 
-        <Replace Tag="LOC_MPH_DIPLOMATIC_DEAL_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_DIPLOMATIC_DEAL_NAME" Language="en_US">
             <Text>No Diplomatic Deals</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_DIPLOMATIC_DEAL_DESC" language="en_US">
+        <Replace Tag="LOC_MPH_DIPLOMATIC_DEAL_DESC" Language="en_US">
             <Text>Remove the ability to initiate any Diplomatic Deals from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_MILITARY_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_MILITARY_NAME" Language="en_US">
             <Text>Military Alliance</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_MILITARY_DESC" language="en_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_MILITARY_DESC" Language="en_US">
             <Text>Untick to remove the ability to form a Military Alliance from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_CULTURAL_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_CULTURAL_NAME" Language="en_US">
             <Text>Cultural Alliance</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_CULTURAL_DESC" language="en_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_CULTURAL_DESC" Language="en_US">
             <Text>Untick to remove the ability to form a Cultural Alliance from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_ECONOMIC_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_ECONOMIC_NAME" Language="en_US">
             <Text>Economic Alliance</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_ECONOMIC_DESC" language="en_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_ECONOMIC_DESC" Language="en_US">
             <Text>Untick to remove the ability to form a Economic Alliance from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_RELIGIOUS_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_RELIGIOUS_NAME" Language="en_US">
             <Text>Religious Alliance</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_RELIGIOUS_DESC" language="en_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_RELIGIOUS_DESC" Language="en_US">
             <Text>Untick to remove the ability to form a Religious Alliance from the game.</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_RESEARCH_NAME" language="en_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_RESEARCH_NAME" Language="en_US">
             <Text>Research Alliance</Text>
         </Replace>
-        <Replace Tag="LOC_MPH_ALLIANCE_RESEARCH_DESC" language="en_US">
+        <Replace Tag="LOC_MPH_ALLIANCE_RESEARCH_DESC" Language="en_US">
             <Text>Untick to remove the ability to form a Research Alliance from the game.</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_NAME" language="en_US">
+        <Replace Tag="MPH_PRESET_NAME" Language="en_US">
             <Text>Preset</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_NONE_NAME" language="en_US">
+        <Replace Tag="MPH_PRESET_NONE_NAME" Language="en_US">
             <Text>None</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_CWC_NAME" language="en_US">
+        <Replace Tag="MPH_PRESET_CWC_NAME" Language="en_US">
             <Text>Civilization World Cup</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_CPLFFA_NAME" language="en_US">
+        <Replace Tag="MPH_PRESET_CPLFFA_NAME" Language="en_US">
             <Text>CPL FFA</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_CIVFRTEAMER_NAME" language="en_US">
+        <Replace Tag="MPH_PRESET_CIVFRTEAMER_NAME" Language="en_US">
             <Text>Squadron CivFR</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_CPLSQUADRON_NAME" language="en_US">
+        <Replace Tag="MPH_PRESET_CPLSQUADRON_NAME" Language="en_US">
             <Text>CPL Premier League</Text>
         </Replace>
         <Replace Tag="MPH_PRESET_CPLSQUADRON_DESC" language="en_US">
             <Text>Premier League 4v4 with drafting</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_PHYPHY_NAME" language="en_US">
+        <Replace Tag="MPH_PRESET_PHYPHY_NAME" Language="en_US">
             <Text>1v1 Blitz</Text>
         </Replace>
-		<Replace Tag="MPH_PRESET_NONE_DESC" language="en_US">
+		<Replace Tag="MPH_PRESET_NONE_DESC" Language="en_US">
             <Text>Default Settings</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_CWC_DESC" language="en_US">
+        <Replace Tag="MPH_PRESET_CWC_DESC" Language="en_US">
             <Text>Drafting and 4v4 teamers</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_CPLFFA_DESC" language="en_US">
+        <Replace Tag="MPH_PRESET_CPLFFA_DESC" Language="en_US">
             <Text>CivPlayer League typical settings with abundant resources</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_CIVFRTEAMER_DESC" language="en_US">
+        <Replace Tag="MPH_PRESET_CIVFRTEAMER_DESC" Language="en_US">
             <Text>CivFR typical settings for teamers</Text>
         </Replace>
-        <Replace Tag="MPH_PRESET_PHYPHY_DESC" language="en_US">
+        <Replace Tag="MPH_PRESET_PHYPHY_DESC" Language="en_US">
             <Text>UwU Games but Timer not UwU</Text>
         </Replace>
-        <Replace Tag="MPH_OFFICIAL_GAME_NAME" language="en_US">
-            <Text>[COLOR_RED]Official tournamt game[DCOLOR]</Text>
+        <Replace Tag="MPH_OFFICIAL_GAME_NAME" Language="en_US">
+            <Text>[COLOR_RED]Official tournament game[ENDCOLOR]</Text>
         </Replace>
-        <Replace Tag="MPH_OFFICIAL_GAME_DESC" language="en_US">
-            <Text>If the game is part of an official tournamt game, other mods can load/unload extra features.</Text>
+        <Replace Tag="MPH_OFFICIAL_GAME_DESC" Language="en_US">
+            <Text>If the game is part of an official tournament game, other mods can load/unload extra features.</Text>
         </Replace>
-		<Row Tag="TIMER_2VI2_NAME" language="en_US">
+		<Row Tag="TIMER_2VI2_NAME" Language="en_US">
             <Text>2VI2 HOT</Text>
         </Row>
-        <Row Tag="TIMER_2VI2_DESC" language="en_US">
+        <Row Tag="TIMER_2VI2_DESC" Language="en_US">
             <Text>Very fast timer that starts at 15 seconds and increases in jumps till 60 second by turn 40. Scales linearly after</Text>
         </Row>
-        <Row Tag="MPH_PRESET_2VI2_NAME" language="en_US">
+        <Row Tag="MPH_PRESET_2VI2_NAME" Language="en_US">
             <Text>2VI2</Text>
         </Row>
-        <Row Tag="MPH_PRESET_2VI2_DESC" language="en_US">
+        <Row Tag="MPH_PRESET_2VI2_DESC" Language="en_US">
             <Text>Dedicated Preset for how 2VI2 Invitational Cup</Text>
         </Row>
-        <Row Tag="MPH_PRESET_CIVFRFFA_NAME" language="en_US">
+        <Row Tag="MPH_PRESET_CIVFRFFA_NAME" Language="en_US">
             <Text>FFA CivFr</Text>
         </Row>
-        <Row Tag="MPH_PRESET_CIVFRFFA_DESC" language="en_US">
+        <Row Tag="MPH_PRESET_CIVFRFFA_DESC" Language="en_US">
             <Text>CivFR typical settings for FFA.</Text>
         </Row>
     </LocalizedText>
